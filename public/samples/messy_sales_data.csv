@@ -1,0 +1,1001 @@
+order_id,order_date,region,product_category,customer_segment,quantity,unit_price,discount_rate,profit
+ORD-20240001,01/24/2024,North,Hardware,Corporate,2,,0.25,69.52
+ORD-20240002,12/18/2024,North,Furniture,Corporate,9,€909.99,0.1,-653.61
+ORD-20240003,2024-06-20,Central,Apparel,Corporate,21,820.70,0.25,-447.59
+ORD-20240004,2023-05-03,West,Office Supplies,Corporate,7,671.20,0.0,1012.40
+ORD-20240005,03/15/2024,Central,Office Supplies,Consumer,8,767.72,0.15,55.57
+ORD-20240006,2023-12-11,West,Furniture,Small Business,18,561.59,0.25,679.60
+ORD-20240007,2023-09-16,South,Apparel,Corporate,13,452.63,0.1,2291.20
+ORD-20240008,,Central,Office Supplies,Corporate,6,906.82,0.1,2120.98
+ORD-20240009,2024-02-28,South,Furniture,Small Business,1,471.85,0.0,192.26
+ORD-20240010,05/08/2023,North,Apparel,Small Business,25,$631.87,0.25,-603.32
+ORD-20240011,2023-04-18,East,Hardware,Consumer,8,$34.67,0.25,-2.48
+ORD-20240012,11/02/2023,East,Furniture,Corporate,7,691.33,0.25,710.39
+ORD-20240013,07/07/2023,West,Electronics,Small Business,4,$695.88,0.0,-2.24
+ORD-20240014,2024-07-06,North,Hardware,Small Business,18,921.01,0.05,-790.82
+ORD-20240015,2023-07-02,East,Apparel,Small Business,24,534.64,0.15,-623.01
+ORD-20240016,2023-10-24,Central,Hardware,Small Business,3,79.07,0.0,60.52
+ORD-20240017,2023-10-08,Central,Office Supplies,Consumer,22,238.17,0.15,-318.33
+ORD-20240018,2024-02-01,North,Furniture,Consumer,12,837.12,0.1,189.79
+ORD-20240019,2023-05-20,North,Furniture,Consumer,24,269.65,0.25,-114.66
+ORD-20240020,05/17/2024,North,Apparel,Consumer,1,137.32,0.1,-6.56
+ORD-20240021,09/01/2023,South,Office Supplies,Consumer,14,$303.22,0.0,1652.84
+ORD-20240022,2024-02-12,South,Furniture,Consumer,6,325.59,0.15,550.19
+ORD-20240023,2023-05-06,West,Apparel,Consumer,8,,0.1,24.17
+ORD-20240024,2024-06-21,East,Electronics,Corporate,6,934.62,0.0,-476.42
+ORD-20240025,2023-06-14,East,Apparel,Consumer,18,894.15,0.05,1047.87
+ORD-20240026,2024-06-20,East,Apparel,Small Business,10,194.37,0.15,423.59
+ORD-20240027,2023-05-13,Central,Office Supplies,Corporate,22,457.43,0.05,2345.24
+ORD-20240028,2023-10-11,East,Furniture,Consumer,8,586.54,0.0,578.33
+ORD-20240029,2024-12-23,North,Electronics,Consumer,6,665.68,0.15,-406.95
+ORD-20240030,2024-08-05,Central,Apparel,Small Business,17,862.91,0.15,4842.04
+ORD-20240031,2023-05-25,Central,Furniture,Consumer,23,269.05,0.1,2148.74
+ORD-20240032,2023-07-23,West,Apparel,Consumer,14,734.76,0.0,3744.74
+ORD-20240033,2024-01-12,West,Hardware,Consumer,16,422.51,0.0,563.22
+ORD-20240034,2024-12-06,Central,Apparel,Small Business,1,$415.75,0.15,-14.48
+ORD-20240035,2024-08-11,West,Electronics,Small Business,18,$905.04,0.05,3715.62
+ORD-20240036,2023-01-08,South,Electronics,Consumer,15,732.05,0.05,2227.54
+ORD-20240037,2023-03-10,Central,Apparel,Small Business,7,$660.72,0.05,-390.43
+ORD-20240038,2023-10-26,North,Apparel,Consumer,17,26.83,0.15,133.13
+ORD-20240039,2024-11-27,Central,Office Supplies,Small Business,25,422.26,0.25,87.39
+ORD-20240040,02/09/2024,Central,Office Supplies,Corporate,6,346.76,0.1,101.50
+ORD-20240041,2023-05-18,South,Apparel,Consumer,23,680.57,0.15,4334.28
+ORD-20240042,2024-12-08,Central,Apparel,Small Business,11,439.25,0.1,3.66
+ORD-20240043,02/24/2023,East,Hardware,Consumer,7,352.42,0.1,-314.19
+ORD-20240044,2024-01-18,West,Electronics,Corporate,16,187.38,0.0,4.46
+ORD-20240045,02/13/2024,North,Hardware,Consumer,8,$729.75,0.25,909.31
+ORD-20240046,07/15/2024,West,Hardware,Small Business,4,209.28,0.05,6.99
+ORD-20240047,09/03/2023,Central,Electronics,Small Business,10,439.52,0.05,1688.33
+ORD-20240048,2023-11-26,South,Furniture,Consumer,10,785.66,0.1,802.50
+ORD-20240049,2024-07-09,West,Hardware,Consumer,8,796.62,0.25,966.81
+ORD-20240050,2023-05-19,Central,Office Supplies,Small Business,14,474.76,0.0,877.40
+ORD-20240051,2023-02-28,East,Apparel,Small Business,2,309.07,0.1,-44.75
+ORD-20240052,2024-01-22,East,Apparel,Consumer,7,137.50,0.1,97.77
+ORD-20240053,2023-11-20,North,Electronics,Consumer,15,620.61,0.05,1317.93
+ORD-20240054,2024-05-14,Central,Furniture,Small Business,24,822.87,0.1,5574.01
+ORD-20240055,09/09/2023,Central,Apparel,Corporate,18,325.83,0.25,335.74
+ORD-20240056,12/08/2024,North,Apparel,Corporate,13,755.89,0.05,1374.12
+ORD-20240057,2023-10-11,Central,Electronics,Corporate,21,84.96,0.1,85.32
+ORD-20240058,2024-06-28,West,Electronics,Consumer,21,283.70,0.05,1686.96
+ORD-20240059,2023-11-23,North,Electronics,Corporate,14,$511.64,0.25,1391.84
+ORD-20240060,2024-10-28,Central,Apparel,Corporate,9,855.48,0.15,2557.07
+ORD-20240061,2024-08-12,East,Office Supplies,Corporate,16,$371.58,0.1,1042.79
+ORD-20240062,11/13/2024,North,Apparel,Corporate,25,582.61,0.1,-243.79
+ORD-20240063,2023-12-25,North,Apparel,Corporate,24,$865.50,0.1,5580.18
+ORD-20240064,2024-09-12,West,Office Supplies,Corporate,4,85.40,0.05,118.80
+ORD-20240065,2023-09-12,,Apparel,Small Business,22,371.26,0.1,-624.77
+ORD-20240066,invalid-date-format,Central,Hardware,Consumer,21,865.28,0.1,3917.45
+ORD-20240067,2024-02-31,West,Furniture,Consumer,13,641.90,0.25,635.09
+ORD-20240068,2023-07-21,East,Office Supplies,Corporate,8,107.90,0.1,137.26
+ORD-20240069,2023-07-09,West,Furniture,Small Business,1,$326.83,0.05,100.04
+ORD-20240070,2023-09-07,South,Hardware,Consumer,5,520.10,0.05,-207.63
+ORD-20240071,2023-06-26,,Furniture,Small Business,4,460.29,0.1,261.72
+ORD-20240072,2024-10-02,North,Apparel,Consumer,16,429.73,0.0,297.49
+ORD-20240073,2024-10-21,East,Hardware,Small Business,4,623.61,0.25,528.52
+ORD-20240074,2024-04-14,North,Office Supplies,Corporate,5,458.44,0.0,800.12
+ORD-20240075,2023-12-12,Central,Electronics,Small Business,25,871.31,0.0,9389.22
+ORD-20240076,10/17/2023,North,Hardware,Corporate,19,416.22,0.25,2578.43
+ORD-20240077,2023-11-18,East,Office Supplies,Corporate,11,184.61,0.05,366.14
+ORD-20240078,2023-11-01,West,Furniture,Small Business,11,545.70,0.0,2281.06
+ORD-20240079,01/22/2023,West,Apparel,Small Business,4,118.68,0.25,50.55
+,,,,,,,,
+ORD-20240081,2023-03-13,East,Electronics,Corporate,3,553.33,0.25,115.35
+ORD-20240082,07/01/2024,West,Office Supplies,Consumer,8,389.42,0.0,272.47
+ORD-20240083,06/25/2023,Central,Office Supplies,Small Business,5,151.93,0.05,-33.12
+ORD-20240084,2024-02-06,Central,Hardware,Small Business,11,601.45,0.05,715.61
+ORD-20240085,2023-05-19,West,Electronics,Corporate,3,928.84,0.0,610.26
+ORD-20240086,2023-09-26,South,Apparel,Consumer,15,$855.68,0.1,5076.17
+ORD-20240087,2024-01-08,Central,Office Supplies,Corporate,14,649.77,0.0,2943.14
+ORD-20240088,02/18/2024,Central,Office Supplies,Small Business,5,305.07,0.15,-94.17
+ORD-20240089,2024-09-13,Central,Apparel,Consumer,12,904.34,0.1,4088.42
+ORD-20240090,03/05/2023,Central,Hardware,Corporate,25,573.43,0.05,-717.06
+ORD-20240091,03/24/2024,South,Hardware,Small Business,15,238.62,0.15,1193.79
+ORD-20240092,2024-10-15,Central,Furniture,Small Business,5,63.79,0.15,101.52
+ORD-20240093,09/28/2023,East,Hardware,Corporate,3,222.61,0.15,216.15
+ORD-20240094,07/17/2024,East,Office Supplies,Small Business,21,151.56,0.0,70.43
+ORD-20240095,2024-03-25,,Office Supplies,Consumer,18,584.30,0.15,-744.58
+ORD-20240096,2024-01-08,North,Apparel,Consumer,21,241.21,0.05,unknown
+ORD-20240097,2023-10-14,East,Hardware,Small Business,18,,0.0,3463.65
+ORD-20240098,2023-01-12,North,Office Supplies,Corporate,18,616.01,0.15,4132.76
+ORD-20240099,03/03/2024,South,Office Supplies,Small Business,13,522.73,0.1,-783.01
+ORD-20240100,01/28/2024,West,Apparel,Corporate,11,478.95,0.15,315.30
+ORD-20240101,02/24/2024,South,Office Supplies,Corporate,22,431.93,0.15,-403.96
+ORD-20240102,2024-12-28,North,Apparel,Small Business,22,€44.12,0.25,186.98
+ORD-20240103,2024-04-25,North,Apparel,Corporate,15,551.62,0.25,435.46
+ORD-20240104,2023-02-01,Central,Office Supplies,Consumer,20,871.91,0.15,-443.09
+ORD-20240105,2024-03-23,East,Electronics,Corporate,10,680.54,0.05,2109.04
+ORD-20240106,04/26/2023,East,Office Supplies,Small Business,5,95.61,0.1,38.25
+ORD-20240107,2024-07-25,East,Apparel,Small Business,12,$790.17,0.25,1663.22
+ORD-20240108,2023-07-17,East,Office Supplies,Consumer,12,500.17,0.1,1931.48
+ORD-20240109,2023-09-09,North,Furniture,Small Business,5,€598.89,0.25,118.07
+ORD-20240110,2024-02-31,North,Hardware,Consumer,25,592.93,0.0,2206.04
+ORD-20240111,2023-05-16,East,Electronics,Corporate,16,333.08,0.05,190.11
+ORD-20240112,2023-06-13,North,Apparel,Corporate,8,$62.32,0.15,156.16
+ORD-20240113,2024-03-27,South,Apparel,Corporate,16,480.04,0.0,3203.90
+ORD-20240114,04/19/2024,Central,Apparel,Consumer,4,840.10,0.1,932.45
+ORD-20240115,2023-10-18,West,Hardware,Small Business,22,135.30,0.0,257.01
+ORD-20240116,06/25/2023,Central,Electronics,Corporate,16,154.26,0.25,-122.42
+ORD-20240117,2024-07-20,Central,Hardware,Consumer,12,117.48,0.15,239.92
+ORD-20240118,2023-12-21,Central,Electronics,Consumer,17,594.45,0.15,-526.85
+ORD-20240119,invalid-date-format,North,Apparel,Consumer,14,398.70,0.25,1684.22
+ORD-20240120,2023-01-23,West,Office Supplies,Corporate,18,346.26,0.1,1211.89
+ORD-20240121,2023-09-10,East,Apparel,Corporate,18,758.70,0.1,278.68
+ORD-20240122,2024-07-27,East,Electronics,Corporate,21,462.94,0.05,3202.66
+ORD-20240123,2023-05-05,South,Hardware,Consumer,2,$323.82,0.15,-49.36
+ORD-20240124,,South,Apparel,Consumer,25,315.29,0.0,3111.61
+ORD-20240125,2023-09-24,South,Electronics,Corporate,16,€715.32,0.1,unknown
+ORD-20240126,2024-02-11,Central,Furniture,Corporate,9,€120.32,0.05,296.97
+ORD-20240127,2024-01-24,South,Apparel,Small Business,11,$640.75,0.05,2939.55
+ORD-20240128,01/09/2024,East,Hardware,Small Business,12,73.09,0.0,113.35
+ORD-20240129,2024-12-25,East,Furniture,Consumer,16,€714.13,0.25,635.65
+ORD-20240130,2023-09-26,Central,Electronics,Small Business,23,872.62,0.0,-2266.84
+ORD-20240131,10/18/2023,West,Furniture,Corporate,3,431.53,0.0,158.02
+ORD-20240132,2024-01-18,North,Electronics,Small Business,3,$337.13,0.0,176.69
+ORD-20240133,2024-08-02,West,Apparel,Corporate,13,$916.47,0.25,-627.33
+ORD-20240134,2023-09-13,North,Office Supplies,Small Business,18,369.62,0.05,-9.44
+ORD-20240135,12/25/2023,Central,Electronics,Consumer,4,432.42,0.0,-5.46
+ORD-20240136,09/07/2023,South,Hardware,Small Business,25,314.82,0.1,2661.64
+ORD-20240137,07/10/2024,South,Apparel,Consumer,12,642.71,0.25,238.55
+ORD-20240138,07/06/2024,South,Electronics,Corporate,18,378.17,0.1,-171.53
+ORD-20240139,06/03/2023,Central,Electronics,Small Business,24,217.91,0.05,1846.66
+ORD-20240140,2023-01-07,West,Hardware,Corporate,8,740.11,0.15,653.00
+ORD-20240141,2024-06-17,West,Office Supplies,Corporate,11,540.96,0.05,unknown
+ORD-20240142,10/19/2024,South,Furniture,Small Business,22,728.74,0.15,5858.50,EXTRA_UNEXPECTED_COLUMN
+ORD-20240143,03/24/2024,West,Hardware,Consumer,17,,0.0,4231.95
+ORD-20240144,04/03/2023,East,Hardware,Small Business,16,N/A,0.15,-996.17
+ORD-20240145,2024-05-01,North,Hardware,Consumer,20,777.23,0.1,4574.24
+ORD-20240146,2023-08-19,North,Electronics,Corporate,13,67.47,0.0,238.32
+ORD-20240147,2024-11-26,North,Electronics,Small Business,19,58.54,0.0,289.92
+ORD-20240148,2023-11-02,South,Apparel,Corporate,6,544.86,0.15,711.98
+ORD-20240149,2023-12-05,North,Furniture,Corporate,20,907.79,0.15,6656.81
+ORD-20240150,2023-08-16,West,Hardware,Consumer,25,761.18,0.0,-1917.74
+ORD-20240151,2024-11-05,North,Apparel,Corporate,4,$190.21,0.15,119.12
+ORD-20240152,2023-02-12,West,Apparel,Consumer,24,861.37,0.05,3793.83
+ORD-20240153,03/09/2024,South,Apparel,Consumer,12,245.56,0.15,516.68
+ORD-20240154,2024-05-01,East,Apparel,Small Business,20,$314.82,0.05,821.90
+ORD-20240155,2024-06-10,East,Apparel,Small Business,7,525.16,0.25,-369.04
+ORD-20240156,2024-04-15,West,Furniture,Consumer,9,683.75,0.15,-552.47
+ORD-20240157,2024-07-18,East,Hardware,Consumer,4,629.86,0.1,-113.82
+ORD-20240158,2024-11-22,West,Electronics,Small Business,24,557.78,0.25,-174.51
+ORD-20240159,2023-11-19,North,Electronics,Small Business,5,335.77,0.05,259.44
+ORD-20240160,2024-12-23,North,Office Supplies,Small Business,6,707.36,0.25,-144.28
+ORD-20240161,2024-08-08,West,Hardware,Corporate,19,19.16,0.05,-9.17
+ORD-20240162,2023-02-19,East,Apparel,Small Business,16,612.57,0.25,611.47
+ORD-20240163,2024-06-28,East,Hardware,Consumer,11,$300.53,0.05,232.35
+ORD-20240164,2024-10-05,Central,Furniture,Corporate,10,$309.13,0.15,582.40
+ORD-20240165,2023-08-05,Central,Apparel,Corporate,23,471.93,0.0,2054.07
+ORD-20240166,2023-01-09,West,Apparel,Consumer,19,$739.73,0.1,2216.50
+ORD-20240167,2023-08-18,South,Electronics,Corporate,3,944.35,0.05,-64.79
+ORD-20240168,12/20/2024,South,Electronics,Small Business,9,172.43,0.1,32.96
+ORD-20240169,11/27/2023,West,Office Supplies,Consumer,23,248.45,0.1,1785.05
+ORD-20240170,2024-08-05,North,Electronics,Small Business,9,835.29,0.15,2684.76
+ORD-20240171,,North,Apparel,Small Business,12,758.96,0.15,-149.42
+ORD-20240172,2024-05-11,Central,Office Supplies,Consumer,2,$747.94,0.15,-178.30
+ORD-20240173,08/01/2024,South,Office Supplies,Corporate,3,249.11,0.1,167.28
+ORD-20240174,2023-11-10,North,,Consumer,19,650.78,0.0,-1794.91
+ORD-20240175,2023-07-23,North,Electronics,Corporate,10,$738.19,0.05,1647.63
+ORD-20240176,2023-10-01,South,Hardware,Consumer,3,145.91,0.0,89.19
+ORD-20240177,06/26/2023,South,Hardware,Corporate,25,40.08,0.1,-24.11
+ORD-20240178,2023-07-10,South,Electronics,Small Business,20,$845.96,0.0,7480.48
+ORD-20240179,2024-10-14,West,Electronics,Consumer,1,52.24,0.0,21.90
+ORD-20240180,2024-12-17,Central,Furniture,Corporate,3,204.99,0.05,100.39
+ORD-20240181,2023-11-22,South,Electronics,Consumer,15,66.45,0.05,-74.18
+ORD-20240182,2024-03-16,East,Furniture,Corporate,24,736.29,0.0,901.34
+ORD-20240183,2023-05-23,North,Hardware,Consumer,9,851.14,0.0,-99.26
+ORD-20240184,2024-02-31,South,Office Supplies,Consumer,6,816.75,0.25,1219.74
+ORD-20240185,2023-04-11,East,Hardware,Small Business,22,182.69,0.25,1322.86
+ORD-20240186,2024-08-28,North,Electronics,Corporate,19,706.50,0.05,1636.84
+ORD-20240187,04/24/2023,North,Office Supplies,Small Business,1,16.37,0.15,5.00
+ORD-20240188,2024-09-08,South,Electronics,Consumer,17,852.37,0.15,5354.49
+ORD-20240189,03/21/2024,West,Furniture,Corporate,11,382.41,0.1,154.59
+ORD-20240190,04/05/2023,West,Electronics,Consumer,15,262.78,0.0,-377.41
+ORD-20240191,12/23/2023,South,Furniture,Corporate,17,$294.42,0.05,-624.56
+ORD-20240192,12/18/2023,South,Electronics,Consumer,5,€389.54,0.0,388.36
+ORD-20240193,2023-01-03,South,Office Supplies,Corporate,2,€551.58,0.15,138.47
+ORD-20240194,06/07/2023,South,Hardware,Small Business,10,840.40,0.15,-810.15
+ORD-20240195,2023-04-21,North,Office Supplies,Corporate,12,484.74,0.15,60.62
+ORD-20240196,01/26/2024,Central,Hardware,Consumer,4,240.48,0.25,245.12
+ORD-20240197,2024-04-19,South,Hardware,Small Business,23,568.11,0.1,4921.92
+ORD-20240198,2024-04-27,North,Furniture,Consumer,17,325.17,0.25,-120.73
+ORD-20240199,06/02/2023,South,Hardware,Consumer,12,634.10,0.25,-510.09
+ORD-20240200,2024-03-24,East,Hardware,Small Business,12,565.67,0.05,496.74
+ORD-20240201,2023-03-24,West,Hardware,Small Business,11,919.64,0.05,2246.76
+ORD-20240202,06/24/2023,South,Electronics,Small Business,21,328.93,0.0,63.05
+ORD-20240203,2023-05-26,West,Furniture,Corporate,13,365.95,0.15,1307.09
+ORD-20240204,04/06/2024,East,Office Supplies,Consumer,11,€366.05,0.0,717.64
+ORD-20240205,2024-10-20,South,Apparel,Consumer,11,192.64,0.25,450.12
+ORD-20240206,05/10/2023,Central,Furniture,Consumer,14,$785.34,0.25,1139.58
+ORD-20240207,2023-11-10,West,Office Supplies,Small Business,13,€842.94,0.1,-375.27
+ORD-20240208,2024-05-08,North,Office Supplies,Corporate,25,532.62,0.15,3859.99
+ORD-20240209,2023-08-19,North,Hardware,Small Business,20,$902.55,0.15,-709.98
+ORD-20240210,2023-04-05,West
+ORD-20240211,2024-05-17,,Hardware,Corporate,4,153.57,0.25,91.96
+ORD-20240212,2023-02-19,East,Office Supplies,Corporate,19,50.03,0.1,78.52
+ORD-20240213,2024-07-02,South,Apparel,Corporate,1,757.06,0.1,12.41
+ORD-20240214,02/28/2023,West,Office Supplies,Corporate,20,190.72,0.05,1442.44
+ORD-20240215,2024-09-28,South,Hardware,Small Business,19,,0.05,1241.07
+ORD-20240216,06/23/2023,Central,Electronics,Consumer,12,432.11,0.15,890.88
+ORD-20240217,05/24/2023,South,Furniture,Small Business,8,266.59,0.15,286.37
+ORD-20240218,2024-11-01,Central,Furniture,Corporate,23,615.96,0.15,4663.75
+ORD-20240219,2024-04-15,West,Electronics,Small Business,12,570.18,0.1,179.11
+ORD-20240220,2024-05-21,East,Hardware,Consumer,20,313.81,0.05,1685.98
+ORD-20240221,2024-05-14,Central,Office Supplies,Consumer,22,748.88,0.1,2289.25
+ORD-20240222,09/06/2024,East,Hardware,Consumer,22,626.90,0.05,827.67
+ORD-20240223,2024-06-12,North,Hardware,Small Business,3,196.90,0.0,218.85
+ORD-20240224,01/28/2023,West,Apparel,Small Business,6,470.89,0.05,102.12
+ORD-20240225,2023-04-25,North,Apparel,Corporate,14,373.40,0.0,890.10
+ORD-20240226,06/25/2023,,Furniture,Corporate,10,$373.62,0.25,94.35
+ORD-20240227,2024-02-31,West,Hardware,Corporate,22,335.46,0.15,411.21
+ORD-20240228,07/01/2023,South,Hardware,Consumer,12,755.64,0.15,2897.46
+ORD-20240229,2023-01-20,North,Electronics,Corporate,4,458.56,0.05,-46.53
+ORD-20240230,,North,Office Supplies,Small Business,5,855.21,0.25,902.01
+ORD-20240231,2023-02-16,Central,Office Supplies,Corporate,6,,0.05,717.99
+ORD-20240232,2023-01-22,West,Electronics,Consumer,24,860.97,0.05,2435.13
+ORD-20240233,2023-01-04,East,Office Supplies,Consumer,4,847.42,0.0,1224.35
+ORD-20240234,2024-06-15,East,Apparel,Corporate,9,660.06,0.15,1666.02
+ORD-20240235,2023-02-05,North,Hardware,Small Business,22,586.59,0.1,2518.19
+ORD-20240236,2024-12-05,West,Electronics,Corporate,1,648.86,0.25,138.34
+ORD-20240237,2023-06-17,West,Apparel,Small Business,20,$616.58,0.05,1796.39
+ORD-20240238,2024-03-03,East,Furniture,Corporate,13,88.71,0.15,324.22
+ORD-20240239,2023-08-11,North,Apparel,Small Business,1,755.32,0.25,131.72
+ORD-20240240,2024-11-22,North,Apparel,Small Business,20,629.45,0.15,-873.02
+ORD-20240241,2024-06-12,North,Furniture,Small Business,24,115.01,0.25,-67.17
+ORD-20240242,2023-04-15,West,Hardware,Corporate,15,909.04,0.05,unknown
+ORD-20240243,2024-09-14,South,Furniture,Consumer,4,576.51,0.1,316.43
+ORD-20240244,12/25/2023,East,Furniture,Small Business,23,494.00,0.25,3122.49
+ORD-20240245,11/07/2023,East,Furniture,Small Business,6,664.18,0.1,990.65
+ORD-20240246,2024-10-19,Central,Apparel,Small Business,4,,0.0,-18.14
+ORD-20240247,05/22/2024,East,Hardware,Corporate,4,646.62,0.25,715.62
+ORD-20240248,2024-04-17,West,Office Supplies,Consumer,1,204.89,0.15,60.60
+ORD-20240249,2023-11-12,East,Electronics,Consumer,24,367.68,0.15,131.02
+ORD-20240250,2024-05-01,North,Office Supplies,Small Business,20,296.58,0.25,801.19
+ORD-20240251,2023-09-08,South,Hardware,Corporate,8,635.22,0.1,304.05
+ORD-20240252,09/16/2023,South,Hardware,Consumer,2,315.08,0.0,51.37
+ORD-20240253,2024-09-27,West,Furniture,Consumer,4,€909.12,0.25,463.44
+ORD-20240254,2023-11-25,North,Apparel,Consumer,24,37.21,0.1,-102.29
+ORD-20240255,2023-05-18,East,Apparel,Corporate,11,N/A,0.25,-778.79
+ORD-20240256,2023-12-19,Central,Office Supplies,Corporate,25,371.62,0.0,1248.57
+ORD-20240257,2024-07-26,East,Electronics,Small Business,5,$19.70,0.25,6.39
+ORD-20240258,04/24/2024,Central,Furniture,Corporate,7,$642.36,0.25,1218.62
+ORD-20240259,09/15/2023,North,Hardware,Corporate,12,$627.87,0.0,158.84
+ORD-20240260,2024-08-15,Central,Hardware,Corporate,14,€307.86,0.05,1135.50
+ORD-20240261,2024-06-05,East,Apparel,Consumer,21,802.08,0.05,6157.03
+ORD-20240262,2023-11-03,North,Hardware,Small Business,7,530.74,0.25,1076.64
+ORD-20240263,03/12/2024,East,Hardware,Corporate,12,634.60,0.25,1487.80
+ORD-20240264,2023-03-06,East,Apparel,Corporate,12,640.13,0.25,2273.56
+ORD-20240265,2023-08-02,Central,Office Supplies,Corporate,19,177.55,0.15,198.36
+ORD-20240266,2024-09-09,West,Office Supplies,Corporate,20,N/A,0.15,-722.83
+ORD-20240267,04/05/2023,North,Apparel,Small Business,4,462.69,0.05,359.51
+ORD-20240268,2023-04-02,Central,Hardware,Consumer,9,498.06,0.15,798.66
+ORD-20240269,,East,Furniture,Corporate,16,€791.39,0.25,-611.33
+ORD-20240270,10/22/2024,West,Electronics,Corporate,5,$204.20,0.25,199.57
+ORD-20240271,2023-03-16,North,Furniture,Small Business,1,739.50,0.15,102.60
+ORD-20240272,2024-02-31,South,Apparel,Corporate,12,708.20,0.25,-582.37
+ORD-20240273,04/28/2023,West,Electronics,Consumer,19,500.98,0.15,1963.87
+ORD-20240274,2023-06-04,East,Apparel,Small Business,9,386.62,0.05,323.74
+ORD-20240275,06/18/2024,East,Apparel,Small Business,4,432.57,0.05,-147.66
+ORD-20240276,09/20/2023,North,Furniture,Small Business,14,$260.99,0.1,-335.35
+ORD-20240277,2024-07-20,South,Apparel,Small Business,17,46.42,0.25,92.52
+ORD-20240278,11/02/2024,,Office Supplies,Corporate,22,562.98,0.25,-1307.73
+ORD-20240279,2024-09-10,South,Furniture,Corporate,19,N/A,0.25,-219.26
+ORD-20240280,2024-02-26,Central,Apparel,Small Business,16,723.24,0.15,2547.12
+ORD-20240281,08/04/2024,South,Furniture,Corporate,12,24.09,0.1,-0.27
+ORD-20240282,2023-06-03,Central,Furniture,Consumer,8,831.01,0.05,-78.79
+ORD-20240283,06/05/2023,West,Hardware,Corporate,12,475.34,0.25,1588.28
+ORD-20240284,09/09/2024,North,Apparel,Small Business,2,383.13,0.05,90.50
+ORD-20240285,06/23/2023,Central,Office Supplies,Corporate,6,236.73,0.15,513.25
+ORD-20240286,2024-07-07,West,Furniture,Small Business,22,108.38,0.1,713.42
+ORD-20240287,2023-04-05,,Furniture,Small Business,17,310.20,0.15,134.56
+ORD-20240288,07/04/2023,West,Electronics,Corporate,9,538.93,0.1,246.57
+ORD-20240289,2023-11-20,Central,Office Supplies,Small Business,17,703.65,0.0,940.73
+ORD-20240290,2023-03-28,West,Hardware,Consumer,3,€228.38,0.1,149.11
+ORD-20240291,2024-07-09,Central,Apparel,Consumer,1,$234.38,0.1,87.39
+ORD-20240292,03/13/2023,West,Electronics,Small Business,25,112.17,0.25,-119.54
+ORD-20240293,2023-05-08,South,Furniture,Small Business,12,319.06,0.15,424.10
+ORD-20240294,2023-09-15,South,Apparel,Small Business,19,613.20,0.25,312.80
+ORD-20240295,2024-02-15,East,Hardware,Consumer,12,515.32,0.15,2198.04
+ORD-20240296,,East,Electronics,Consumer,14,423.69,0.05,-293.24
+ORD-20240297,07/08/2024,Central,Hardware,Small Business,9,709.64,0.1,561.83
+ORD-20240298,2024-05-04,Central,Office Supplies,Consumer,18,,0.1,172.42
+ORD-20240299,04/03/2023,West,Apparel,Corporate,23,323.78,0.05,-823.32
+ORD-20240300,2023-08-06,West,Electronics,Small Business,8,926.60,0.05,2060.33
+ORD-20240301,2023-02-17,East,Furniture,Consumer,24,502.07,0.1,1504.57
+ORD-20240302,2023-01-28,West,Furniture,Small Business,4,242.29,0.0,192.52
+ORD-20240303,03/12/2023,Central,Electronics,Small Business,5,755.02,0.05,511.79
+ORD-20240304,2024-11-25,South,Apparel,Consumer,9,468.76,0.15,664.90
+ORD-20240305,2024-10-06,Central,Hardware,Small Business,5,781.16,0.25,unknown
+ORD-20240306,2023-07-24,East,Furniture,Consumer,22,780.81,0.05,2683.52
+ORD-20240307,2024-10-10,North,Electronics,Consumer,6,203.94,0.15,-36.43
+ORD-20240308,2024-07-22,East,Furniture,Consumer,1,210.17,0.15,72.72
+ORD-20240309,2024-11-02,West,Electronics,Corporate,17,$80.81,0.1,-127.64
+ORD-20240310,2023-02-24,Central,Hardware,Consumer,18,403.20,0.0,2248.19
+ORD-20240311,2024-12-22,South,Hardware,Consumer,18,429.22,0.1,2722.18
+ORD-20240312,2024-06-14,South,Furniture,Small Business,24,914.14,0.15,unknown
+ORD-20240313,invalid-date-format,North,Office Supplies,Consumer,8,309.44,0.1,894.46
+ORD-20240314,10/05/2023,South,Hardware,Corporate,10,$388.81,0.05,1073.24
+ORD-20240315,2023-03-16,Central,Electronics,Corporate,12,421.07,0.0,1879.01
+ORD-20240316,10/01/2024,East,Furniture,Small Business,8,€644.85,0.15,1897.05
+ORD-20240317,02/08/2024,South,Apparel,Consumer,18,94.55,0.25,141.29
+ORD-20240318,2023-08-18,South,Hardware,Consumer,9,317.39,0.25,-206.19
+ORD-20240319,2024-06-07,East,Office Supplies,Corporate,20,$56.96,0.05,-32.67
+ORD-20240320,02/04/2023,South,Office Supplies,Small Business,4,455.56,0.1,-40.34
+ORD-20240321,2024-09-25,South,Electronics,Small Business,17,$174.25,0.1,-78.87
+ORD-20240322,08/21/2023,East,Electronics,Small Business,13,370.96,0.0,1891.97
+ORD-20240323,2023-02-06,North,Hardware,Corporate,13,32.18,0.1,23.81
+ORD-20240324,2023-09-09,North,Office Supplies,Corporate,13,97.09,0.15,174.26
+ORD-20240325,11/08/2024,East,Office Supplies,Consumer,7,558.26,0.05,1364.51
+ORD-20240326,2024-09-05,South,Hardware,Corporate,3,901.94,0.0,-106.93
+ORD-20240327,2024-01-25,West,Office Supplies,Consumer,4,$39.50,0.25,26.09
+ORD-20240328,2023-10-08,West,Hardware,Small Business,12,€377.28,0.15,-259.73
+ORD-20240329,invalid-date-format,North,Apparel,Small Business,7,76.84,0.15,169.29
+ORD-20240330,2024-08-08,West,Apparel,Small Business,19,506.09,0.0,1561.49
+ORD-20240331,2024-01-08,West,Electronics,Corporate,13,738.39,0.1,1095.52
+ORD-20240332,2023-01-23,North,Electronics,Small Business,23,382.52,0.1,954.39
+ORD-20240333,12/07/2024,South,Electronics,Small Business,15,94.76,0.15,345.69
+ORD-20240334,03/13/2024,East,Furniture,Consumer,6,62.98,0.1,12.15
+ORD-20240335,2023-11-06,North,Office Supplies,Corporate,16,20.38,0.15,-2.02
+ORD-20240336,2023-07-15,,Office Supplies,Small Business,7,$153.62,0.1,-123.85
+ORD-20240337,2024-10-10,West,Furniture,Small Business,22,571.30,0.25,-410.51
+ORD-20240338,2024-01-03,North,Hardware,Corporate,5,$818.55,0.1,612.31
+ORD-20240339,2023-10-02,Central,Apparel,Small Business,23,584.27,0.1,70.10
+ORD-20240340,2024-03-20,West,Hardware,Corporate,7,N/A,0.0,76.63
+ORD-20240341,2023-07-14,South,Furniture,Corporate,3,488.75,0.1,409.37
+ORD-20240342,2023-07-24,East,Apparel,Consumer,21,$160.29,0.15,1102.23
+ORD-20240343,2023-07-24,East,Electronics,Small Business,11,845.31,0.1,-922.82
+ORD-20240344,2023-06-13,Central,Office Supplies,Corporate,23,,0.15,2956.60
+ORD-20240345,05/07/2024,North,Electronics,Consumer,16,159.06,0.1,925.76
+ORD-20240346,2023-06-05,South,Electronics,Small Business,17,$305.77,0.0,1363.10
+ORD-20240347,2023-08-02,East,Office Supplies,Consumer,11,282.94,0.25,96.85
+ORD-20240348,03/06/2024,Central,Furniture,Small Business,11,896.96,0.1,1726.70
+ORD-20240349,06/18/2024,North,Electronics,Corporate,6,848.34,0.15,950.93
+ORD-20240350,2023-12-25,West,Electronics,Small Business,15,$305.22,0.15,514.96
+ORD-20240351,2024-10-09,East,Office Supplies,Consumer,3,343.60,0.15,313.20
+ORD-20240352,2023-10-05,North,Electronics,Small Business,15,401.57,0.25,-17.10
+ORD-20240353,2023-02-11,West,Office Supplies,Consumer,6,87.83,0.25,139.14
+ORD-20240354,2023-06-18,West,Electronics,Small Business,25,321.13,0.0,-768.14
+ORD-20240355,2023-11-26,West,Apparel,Corporate,7,835.39,0.1,1011.36
+ORD-20240356,2024-07-23,Central,Apparel,Corporate,2,528.21,0.0,-157.93
+ORD-20240357,2024-02-28,Central,Office Supplies,Corporate,13,212.49,0.05,354.07
+ORD-20240358,06/27/2024,South,Electronics,Consumer,24,630.16,0.05,-1425.30
+ORD-20240359,2024-08-26,West,Apparel,Consumer,6,21.95,0.15,40.09
+ORD-20240360,07/18/2024,West,Electronics,Small Business,3,$698.76,0.1,243.31
+ORD-20240361,2024-02-08,North,Hardware,Corporate,20,$336.22,0.0,883.06
+ORD-20240362,2024-12-11,East,Electronics,Small Business,24,749.00,0.1,-1830.58
+ORD-20240363,2024-01-22,East,Furniture,Corporate,9,$277.71,0.1,-318.25
+ORD-20240364,2023-10-24,South,Furniture,Small Business,2,93.92,0.05,37.00
+ORD-20240365,07/25/2024,South,Office Supplies,Corporate,25,64.11,0.15,121.58
+ORD-20240366,2024-09-08,East,Apparel,Corporate,13,914.25,0.0,-1088.47
+ORD-20240367,2024-07-20,North,Hardware,Small Business,24,643.22,0.05,2375.38
+ORD-20240368,2023-06-18,North,Hardware,Corporate,12,279.88,0.05,-413.43
+ORD-20240369,2023-10-22,North,Hardware,Small Business,25,544.27,0.05,5010.29
+ORD-20240370,2023-08-22,East,Office Supplies,Consumer,9,372.92,0.1,1351.97
+ORD-20240371,2023-03-15,Central,Apparel,Small Business,25,589.06,0.0,5854.75
+ORD-20240372,2024-02-03,,Electronics,Small Business,13,669.55,0.15,1441.12
+ORD-20240373,2024-08-16,North,Electronics,Small Business,25,545.37,0.1,614.32
+ORD-20240374,2024-11-03,North,Office Supplies,Consumer,18,,0.05,187.62
+ORD-20240375,12/12/2024,South,Furniture,Small Business,8,73.90,0.25,104.66
+ORD-20240376,2023-08-01,North,Furniture,Small Business,17,649.00,0.25,-501.68
+ORD-20240377,2023-01-24,,Hardware,Small Business,21,$176.05,0.0,1452.19
+ORD-20240378,2023-10-06,West,Hardware,Consumer,14,796.56,0.15,422.21
+ORD-20240379,2023-03-11,East,Office Supplies,Corporate,6,532.44,0.15,-10.35
+ORD-20240380,2024-11-20,,Electronics,Consumer,3,570.14,0.1,153.53
+ORD-20240381,12/05/2023,West,Furniture,Consumer,20,€482.39,0.0,2183.44
+ORD-20240382,01/18/2023,North,Hardware,Corporate,25,209.58,0.0,-176.93
+ORD-20240383,08/16/2023,North,Office Supplies,Corporate,11,847.22,0.15,-982.34
+ORD-20240384,2023-03-06,South,Hardware,Corporate,7,854.98,0.05,1804.53
+ORD-20240385,2023-12-14,West,Electronics,Consumer,7,440.42,0.15,194.16
+ORD-20240386,2023-06-09,Central,Furniture,Corporate,15,725.92,0.05,3949.95
+ORD-20240387,2023-11-20,South,Hardware,Consumer,19,447.68,0.0,2449.80
+ORD-20240388,2023-06-14,South,Electronics,Consumer,2,700.80,0.25,-136.47,EXTRA_UNEXPECTED_COLUMN
+ORD-20240389,2023-12-27,Central,Apparel,Consumer,12,620.54,0.0,-1045.80
+ORD-20240390,2023-08-28,South,Apparel,Corporate,21,607.23,0.0,1031.97
+ORD-20240391,2024-05-14,Central,Electronics,Corporate,24,496.28,0.1,4103.34
+ORD-20240392,2024-10-02,North,Furniture,Corporate,8,621.85,0.25,1390.50
+ORD-20240393,2024-04-11,West,Electronics,Corporate,16,790.64,0.15,2966.62
+ORD-20240394,2024-05-15,North,Apparel,Corporate,6,909.45,0.0,-279.06
+ORD-20240395,2023-03-28,East,Hardware,Corporate,12,704.76,0.0,210.67
+ORD-20240396,2024-04-27,East,Hardware,Corporate,15,138.38,0.1,-87.72
+ORD-20240397,05/25/2023,South,Furniture,Corporate,6,799.78,0.05,-242.74
+ORD-20240398,10/05/2024,Central,Office Supplies,Consumer,12,927.06,0.25,258.11
+ORD-20240399,2023-08-25,South,,Small Business,11,291.35,0.1,1245.36
+ORD-20240400,2024-11-05,West,Furniture,Consumer,10,,0.05,661.71
+ORD-20240401,2023-11-07,South,Hardware,Small Business,22,927.41,0.15,-578.03
+ORD-20240402,2024-01-22,West,Office Supplies,Corporate,12,431.61,0.25,-378.51
+ORD-20240403,07/26/2024,West,Apparel,Small Business,20,$209.28,0.15,1576.19
+ORD-20240404,10/25/2024,East,Hardware,Small Business,25,201.31,0.15,101.29
+ORD-20240405,2024-05-27,South,Electronics,Corporate,21,456.83,0.1,865.95
+ORD-20240406,2023-04-01,North,Office Supplies,Small Business,14,602.18,0.15,3114.00
+ORD-20240407,2023-12-19,North,Apparel,Consumer,12,€269.95,0.15,638.12
+ORD-20240408,2024-02-31,North,Furniture,Small Business,25,€316.64,0.1,2465.71
+ORD-20240409,11/23/2024,South,Hardware,Corporate,14,866.59,0.0,-233.84
+ORD-20240410,2023-09-20,North,Electronics,Corporate,23,778.93,0.25,2201.88
+ORD-20240411,05/01/2023,South,Office Supplies,Consumer,3,728.43,0.0,-225.87
+ORD-20240412,01/07/2023,Central,Electronics,Consumer,3,24.60,0.0,23.57
+ORD-20240413,04/06/2024,East,Office Supplies,Small Business,25,241.10,0.25,-492.74
+ORD-20240414,2023-09-07,Central,,Consumer,17,458.86,0.25,-227.73
+ORD-20240415,06/13/2024,North,Office Supplies,Consumer,17,$727.73,0.1,2051.82
+ORD-20240416,2024-02-13,West,Apparel,Corporate,7,851.60,0.15,2094.96
+ORD-20240417,,North,Hardware,Consumer,4,$389.58,0.25,510.20
+ORD-20240418,2024-03-03,Central,Apparel,Corporate,24,730.10,0.25,2709.71
+ORD-20240419,2024-07-12,West,Furniture,Consumer,4,479.95,0.05,-241.05
+ORD-20240420,2023-08-22,East,Hardware,Consumer,22,732.68,0.15,-395.15
+ORD-20240421,2024-05-18,North,Electronics,Consumer,13,812.44,0.15,1129.31
+ORD-20240422,2023-05-23,West,Electronics,Corporate,22,519.33,0.15,1316.36
+ORD-20240423,2024-07-09,East,Office Supplies,Consumer,19,$797.53,0.1,4578.63
+ORD-20240424,11/11/2024,East,Electronics,Consumer,8,569.02,0.0,1690.51
+ORD-20240425,2023-09-11,Central,Apparel,Small Business,16,936.69,0.15,2448.59
+ORD-20240426,2023-08-04,East,Office Supplies,Corporate,7,807.26,0.0,2001.68
+ORD-20240427,2024-01-10,North,Hardware,Corporate,9,$764.11,0.15,621.16
+ORD-20240428,2024-05-17,South,Office Supplies,Corporate,22,183.86,0.0,917.01
+ORD-20240429,08/07/2024,Central,Apparel,Small Business,21,$202.61,0.15,-221.89
+ORD-20240430,2024-05-28,North,Apparel,Corporate,21,€657.21,0.05,1226.17
+ORD-20240431,2024-04-26,West,Electronics,Corporate,5,,0.1,831.24
+ORD-20240432,12/16/2023,East,Electronics,Corporate,12,843.15,0.15,3576.77
+ORD-20240433,2023-02-19,Central,Electronics,Consumer,25,322.88,0.25,1769.84
+ORD-20240434,07/07/2023,East,Office Supplies,Consumer,16,669.14,0.0,427.11
+ORD-20240435,2023-05-26,East,Hardware,Small Business,22,66.12,0.05,2.47
+ORD-20240436,2023-12-12,West,Apparel,Corporate,10,$784.23,0.05,211.99
+ORD-20240437,2024-08-21,West,Office Supplies,Corporate,16,881.27,0.1,3558.76
+ORD-20240438,2024-03-23,Central,Hardware,Corporate,23,,0.05,317.52
+ORD-20240439,2024-07-07,South,Furniture,Small Business,14,313.64,0.15,1396.27
+ORD-20240440,2024-10-27,West,Apparel,Small Business,8,,0.25,52.15
+ORD-20240441,2024-08-07,West,Hardware,Consumer,12,€545.37,0.0,1839.97
+ORD-20240442,08/27/2024,South,Office Supplies,Corporate,13,$815.68,0.25,-164.31
+ORD-20240443,2023-04-14,East,Furniture,Consumer,12,620.17,0.0,-1070.22
+ORD-20240444,2023-12-13,Central,Electronics,Consumer,11,455.32,0.1,2019.63
+ORD-20240445,10/23/2023,West,Apparel,Consumer,18,$182.71,0.05,475.67
+ORD-20240446,2024-03-03,East,Electronics,Corporate,9,881.03,0.1,2795.13
+ORD-20240447,2024-05-17,West,Furniture,Small Business,21,64.76,0.05,-151.50
+ORD-20240448,2024-03-23,West,Office Supplies,Small Business,16,120.18,0.05,-138.48
+ORD-20240449,2023-03-27,Central,Hardware,Consumer,17,183.83,0.0,-7.21
+,,,,,,,,
+ORD-20240451,2023-01-11,East,Hardware,Consumer,21,761.27,0.0,2850.32
+ORD-20240452,2023-05-06,North,Furniture,Corporate,10,907.39,0.05,-669.26
+ORD-20240453,2023-05-22,East,Apparel,Corporate,16,576.32,0.0,2802.25
+ORD-20240454,07/21/2024,West,Furniture,Small Business,21,93.51,0.15,187.64
+ORD-20240455,2024-03-05,East,Hardware,Consumer,17,$412.29,0.0,902.71
+ORD-20240456,2023-06-09,,Apparel,Consumer,13,$404.20,0.1,181.45
+ORD-20240457,2024-08-20,South,Electronics,Small Business,9,114.42,0.25,-107.55
+ORD-20240458,,West,Hardware,Corporate,20,591.66,0.15,3347.22
+ORD-20240459,2023-04-04,North,Furniture,Corporate,21,518.57,0.0,332.70
+ORD-20240460,2023-01-04,West,Apparel,Corporate,19,290.67,0.15,unknown
+ORD-20240461,2024-12-14,Central,Office Supplies,Corporate,16,692.51,0.15,-102.25
+ORD-20240462,,Central,Apparel,Consumer,16,619.18,0.15,2261.07
+ORD-20240463,2024-04-16,Central,Office Supplies,Small Business,22,840.77,0.15,6695.89
+ORD-20240464,2024-12-12,Central,Electronics,Consumer,6,€581.38,0.0,1137.49
+ORD-20240465,2023-04-07,East,Furniture,Small Business,2,330.78,0.0,145.90
+ORD-20240466,2024-05-11,Central,Furniture,Small Business,20,675.49,0.15,3782.52
+ORD-20240467,2023-02-26,North,Electronics,Corporate,6,677.13,0.25,454.12
+ORD-20240468,06/11/2023,West,Electronics,Corporate,11,175.13,0.1,127.37
+ORD-20240469,2023-11-08,South,Apparel,Corporate,15,497.61,0.1,2796.22
+ORD-20240470,12/26/2023,South,Apparel,Small Business,21,€552.21,0.25,3771.12
+ORD-20240471,2024-12-18,East,,Small Business,20,669.78,0.15,2690.89
+ORD-20240472,2024-10-21,West,Office Supplies,Small Business,11,687.15,0.05,1165.30
+ORD-20240473,2024-09-18,South,Hardware,Consumer,25,410.27,0.25,-644.14
+ORD-20240474,11/17/2024,North,Hardware,Corporate,11,768.04,0.25,1199.84
+ORD-20240475,2023-09-28,Central,Apparel,Consumer,4,559.52,0.1,246.92
+ORD-20240476,07/03/2023,West,Electronics,Small Business,13,500.21,0.15,2062.85
+ORD-20240477,2024-08-23,South,Furniture,Corporate,5,494.83,0.25,-146.90
+ORD-20240478,2024-12-06,West,Office Supplies,Consumer,17,€362.32,0.1,177.15
+ORD-20240479,03/26/2024,East,Apparel,Consumer,18,828.85,0.15,1758.99
+ORD-20240480,2024-06-26,Central,Furniture,Corporate,25,434.88,0.1,-943.36
+ORD-20240481,2024-07-08,West,Electronics,Small Business,1,759.41,0.1,127.55
+ORD-20240482,2023-04-20,West,Electronics,Small Business,6,272.09,0.05,-4.39
+ORD-20240483,2024-08-03,North,Furniture,Small Business,11,100.11,0.0,192.79
+ORD-20240484,2024-02-05,North,Office Supplies,Small Business,2,107.33,0.05,19.92
+ORD-20240485,02/02/2023,South,Hardware,Consumer,9,$449.61,0.15,-380.84
+ORD-20240486,01/09/2023,South,Apparel,Small Business,17,920.00,0.1,2452.94
+ORD-20240487,07/18/2024,Central,Furniture,Consumer,16,249.58,0.15,1525.89
+ORD-20240488,09/10/2023,North,Apparel,Consumer,24,276.29,0.15,-132.40
+ORD-20240489,2024-11-11,East,Office Supplies,Corporate,20,869.61,0.05,unknown
+ORD-20240490,2023-01-22,West,Hardware,Small Business,21,$43.94,0.15,198.71
+ORD-20240491,10/12/2024,North,Office Supplies,Corporate,1,33.50,0.1,7.79
+ORD-20240492,2024-10-21,West,Electronics,Small Business,23,21.67,0.15,-35.35
+ORD-20240493,2023-03-18,Central,Electronics,Small Business,3,$887.88,0.05,958.04
+ORD-20240494,2024-11-01,North,Electronics,Corporate,14,395.43,0.0,1428.87
+ORD-20240495,01/24/2023,Central,Electronics,Corporate,3,770.17,0.05,958.90
+ORD-20240496,2023-04-07,North,Apparel,Small Business,21,800.87,0.05,-1362.80
+ORD-20240497,2024-01-27,North,Hardware,Consumer,21,131.71,0.0,1106.44
+ORD-20240498,12/03/2023,North,Apparel,Small Business,2,290.75,0.15,44.98
+ORD-20240499,2023-10-26,West,Hardware,Small Business,22,439.56,0.1,1764.05
+ORD-20240500,,Central,Furniture,Consumer,21,347.29,0.15,1765.35
+ORD-20240501,2023-01-02,East,Hardware,Consumer,16,335.61,0.1,2088.55
+ORD-20240502,2023-03-02,North,Furniture,Small Business,7,334.35,0.15,530.90
+ORD-20240503,2024-06-28,South,Electronics,Consumer,21,230.31,0.25,-80.23
+ORD-20240504,06/26/2024,North,Electronics,Small Business,4,$426.78,0.25,509.10
+ORD-20240505,04/07/2024,South,Hardware,Consumer,1,€259.77,0.0,-35.69
+ORD-20240506,2023-02-11,East,Hardware,Small Business,14,76.13,0.05,384.39
+ORD-20240507,2024-09-13,South,Hardware,Small Business,10,321.38,0.0,731.70
+ORD-20240508,09/19/2024,West,Hardware,Small Business,13,618.14,0.25,449.36
+ORD-20240509,2024-12-12,East,Hardware,Consumer,8,437.69,0.05,291.20
+ORD-20240510,10/06/2024,North,Hardware,Small Business,2,595.75,0.15,122.23
+ORD-20240511,2024-08-11,South,Electronics,Consumer,10,494.46,0.0,1589.81
+ORD-20240512,2023-02-12,East,Office Supplies,Small Business,5,718.48,0.25,unknown
+ORD-20240513,2024-06-26,North,Hardware,Consumer,13,691.32,0.05,1149.73
+ORD-20240514,2024-08-24,South,Apparel,Corporate,18,,0.05,82.63
+ORD-20240515,2024-11-27,West,Hardware,Small Business,1,45.12,0.05,-2.48
+ORD-20240516,2024-11-26,West,Apparel,Consumer,11,437.19,0.1,-407.09
+ORD-20240517,01/27/2024,West,Furniture,Small Business,3,359.69,0.0,-50.61
+ORD-20240518,2023-03-04,North,Furniture,Consumer,10,678.54,0.15,-315.67
+ORD-20240519,04/17/2024,,Electronics,Small Business,8,866.13,0.15,742.82
+ORD-20240520,2024-05-21,East,Furniture,Consumer,20,443.07,0.05,2265.48
+ORD-20240521,01/08/2023,East,Electronics,Small Business,7,399.55,0.25,-162.07
+ORD-20240522,2024-09-25,South,Apparel,Small Business,23,446.88,0.1,2752.69
+ORD-20240523,2023-01-09,West,Electronics,Small Business,8,424.27,0.15,987.42
+ORD-20240524,01/20/2023,West,Electronics,Consumer,15,217.59,0.0,1258.58
+ORD-20240525,2023-01-27,North,Electronics,Consumer,8,238.04,0.0,-267.32
+ORD-20240526,,North,Electronics,Small Business,6,56.15,0.25,-21.58
+ORD-20240527,2023-04-20,West,Furniture,Corporate,6,N/A,0.0,313.91
+ORD-20240528,05/21/2024,West,Hardware,Consumer,23,941.15,0.25,-765.06
+ORD-20240529,2024-11-23,South,Office Supplies,Small Business,16,$31.50,0.25,45.11
+ORD-20240530,09/19/2023,North,Apparel,Small Business,3,$365.18,0.1,-28.39
+ORD-20240531,2024-04-24,East,Electronics,Corporate,21,716.77,0.05,5121.54
+ORD-20240532,2023-09-02,South,Apparel,Consumer,15,75.42,0.15,-103.86
+ORD-20240533,03/07/2023,South,Electronics,Corporate,10,€199.70,0.15,-74.92
+ORD-20240534,08/21/2023,North,Office Supplies,Consumer,16,487.45,0.15,2029.86
+ORD-20240535,2024-01-25,East,Furniture,Consumer,9,300.97,0.1,183.05
+ORD-20240536,03/23/2024,North,Hardware,Corporate,16,403.79,0.15,2373.97
+ORD-20240537,2023-11-19,North,Hardware,Corporate,9,717.72,0.1,905.54
+ORD-20240538,2024-12-02,South,Office Supplies,Small Business,1,618.39,0.1,118.69
+ORD-20240539,04/20/2023,West,Hardware,Consumer,17,834.07,0.05,4685.62
+ORD-20240540,2024-09-22,North,Hardware,Corporate,5,210.91,0.15,unknown
+ORD-20240541,08/01/2023,Central,Office Supplies,Consumer,6,673.28,0.05,544.50
+ORD-20240542,10/27/2023,South,Furniture,Corporate,15,598.83,0.05,-871.37
+ORD-20240543,2023-02-11,North,,Consumer,22,938.42,0.0,-482.25
+ORD-20240544,2024-09-25,East,Office Supplies,Corporate,11,894.83,0.15,644.75
+ORD-20240545,06/26/2023,West,Furniture,Consumer,17,668.81,0.05,767.52
+ORD-20240546,2024-08-17,,Office Supplies,Corporate,2,702.99,0.15,-11.79
+ORD-20240547,2024-02-12,West,Electronics,Corporate,20,€148.86,0.25,838.99
+ORD-20240548,2024-01-05,Central,Apparel,Corporate,4,520.52,0.05,-45.52
+ORD-20240549,2024-02-04,East,Office Supplies,Corporate,22,854.17,0.0,4684.51
+ORD-20240550,2024-08-03,Central,Office Supplies,Small Business,24,371.84,0.25,2876.36
+ORD-20240551,05/04/2024,Central,Electronics,Consumer,11,554.42,0.0,222.47
+ORD-20240552,2024-07-14,South,Hardware,Consumer,13,N/A,0.1,-600.20
+ORD-20240553,08/22/2024,North,Office Supplies,Small Business,4,807.57,0.25,331.84
+ORD-20240554,2023-12-13,South,Furniture,Consumer,25,€470.82,0.15,294.76
+ORD-20240555,2024-03-01,East,Apparel,Small Business,10,878.06,0.25,568.08
+ORD-20240556,2023-10-28,West,Hardware,Small Business,16,150.41,0.05,760.44
+ORD-20240557,2023-06-24,South,Apparel,Consumer,2,$925.84,0.05,733.61
+ORD-20240558,2024-06-19,West,Electronics,Corporate,10,907.51,0.15,2433.79
+ORD-20240559,2024-02-25,East,Apparel,Consumer,4,$472.42,0.25,-21.31
+ORD-20240560,2023-08-09,West
+ORD-20240561,,Central,Hardware,Small Business,19,780.60,0.0,4480.64
+ORD-20240562,02/06/2023,East,Furniture,Small Business,6,$255.07,0.0,-151.87
+ORD-20240563,2024-09-06,South,Hardware,Corporate,22,145.76,0.15,727.93
+ORD-20240564,2023-06-20,North,Furniture,Consumer,5,217.00,0.1,16.05
+ORD-20240565,2024-09-09,West,Office Supplies,Small Business,5,80.97,0.1,162.95
+ORD-20240566,2023-06-19,West,Hardware,Corporate,4,654.52,0.15,-245.73
+ORD-20240567,06/25/2024,East,,Consumer,13,746.86,0.0,-432.65
+ORD-20240568,2024-08-04,Central,Electronics,Consumer,11,379.24,0.1,1252.68
+ORD-20240569,2024-09-20,North,Furniture,Consumer,13,264.99,0.1,851.06
+ORD-20240570,2023-12-15,West,Office Supplies,Small Business,23,776.11,0.1,3717.25
+ORD-20240571,2023-06-28,South,Furniture,Consumer,24,884.17,0.0,9067.34
+ORD-20240572,2024-12-05,Central,Apparel,Consumer,24,N/A,0.25,2225.27
+ORD-20240573,2023-09-22,Central,Furniture,Consumer,17,62.60,0.15,70.07
+ORD-20240574,11/08/2023,East,Hardware,Corporate,21,850.35,0.15,5851.35
+ORD-20240575,2024-01-20,North,Furniture,Consumer,4,199.70,0.25,95.01
+ORD-20240576,2023-08-01,West,Office Supplies,Consumer,18,116.63,0.15,434.99
+ORD-20240577,2023-12-14,South,Office Supplies,Corporate,14,857.43,0.05,2847.79
+ORD-20240578,2024-05-04,South,Apparel,Small Business,13,$910.43,0.0,-879.69
+ORD-20240579,,North,Office Supplies,Small Business,24,N/A,0.1,1418.69
+ORD-20240580,03/24/2023,East,Furniture,Corporate,7,746.84,0.0,1415.12
+ORD-20240581,10/21/2023,North,Furniture,Corporate,1,100.02,0.0,7.82
+ORD-20240582,2024-04-08,West,Office Supplies,Corporate,9,680.33,0.05,243.75
+ORD-20240583,2024-02-31,East,Apparel,Small Business,4,250.87,0.15,58.13
+ORD-20240584,2023-01-22,East,Hardware,Corporate,8,211.38,0.15,-140.38
+ORD-20240585,2023-10-04,South,Apparel,Consumer,18,296.88,0.15,2015.80
+ORD-20240586,2023-01-05,Central,Office Supplies,Small Business,4,78.31,0.15,43.73
+ORD-20240587,2024-03-20,North,Electronics,Small Business,7,386.66,0.25,755.46
+ORD-20240588,2024-09-13,South,,Small Business,23,N/A,0.25,1878.11
+ORD-20240589,05/28/2023,North,Electronics,Corporate,2,895.81,0.1,655.22
+ORD-20240590,2023-11-08,,Hardware,Corporate,3,841.53,0.1,643.58
+ORD-20240591,2023-06-02,East,Electronics,Small Business,4,658.39,0.1,881.75
+ORD-20240592,08/08/2024,West,Furniture,Corporate,12,$462.87,0.15,-194.01
+ORD-20240593,2024-04-19,East,Furniture,Corporate,22,79.94,0.0,186.13
+ORD-20240594,2023-07-04,Central,Apparel,Consumer,25,888.92,0.05,-20.99
+ORD-20240595,2023-11-20,,Hardware,Corporate,23,$145.18,0.25,965.26
+ORD-20240596,08/05/2023,Central,Electronics,Corporate,4,797.11,0.05,-452.15
+ORD-20240597,2024-07-05,West,Electronics,Consumer,8,$908.72,0.1,-681.93
+ORD-20240598,02/02/2023,Central,Apparel,Small Business,22,779.42,0.1,5790.92
+ORD-20240599,2023-06-09,South,Furniture,Corporate,15,749.49,0.15,3237.48
+ORD-20240600,12/09/2023,South,Office Supplies,Corporate,16,402.04,0.1,-388.28
+ORD-20240601,2024-07-14,Central,Apparel,Small Business,14,741.11,0.05,2679.62
+ORD-20240602,,North,Apparel,Consumer,2,352.40,0.05,17.96
+ORD-20240603,2023-07-08,South,Furniture,Consumer,23,362.52,0.0,2064.88
+ORD-20240604,2023-03-01,North,Apparel,Consumer,16,714.48,0.1,1359.22
+ORD-20240605,11/23/2023,North,Furniture,Consumer,13,650.71,0.15,1312.19
+ORD-20240606,2023-09-10,North,Furniture,Corporate,20,$381.79,0.25,1220.11
+ORD-20240607,2024-08-11,East,Furniture,Consumer,3,743.18,0.1,-267.22
+ORD-20240608,2023-02-07,Central,Electronics,Consumer,19,542.10,0.15,-1073.28
+ORD-20240609,2024-01-12,East,Office Supplies,Small Business,22,$395.81,0.25,-583.85
+ORD-20240610,2024-10-26,North,Furniture,Consumer,21,$686.76,0.05,4582.74
+ORD-20240611,2024-03-17,East,Apparel,Small Business,25,238.57,0.25,957.83
+ORD-20240612,08/04/2023,Central,Electronics,Corporate,11,€291.39,0.0,57.92
+ORD-20240613,03/23/2024,East,Apparel,Consumer,4,471.52,0.1,620.26
+ORD-20240614,2024-11-05,East,Apparel,Corporate,22,$928.90,0.0,6020.91
+ORD-20240615,01/05/2023,West,Furniture,Corporate,22,$450.60,0.25,2900.18
+ORD-20240616,2024-12-04,East,Office Supplies,Corporate,7,460.27,0.1,355.93
+ORD-20240617,2023-03-21,Central,Electronics,Corporate,14,214.55,0.05,1058.12
+ORD-20240618,05/09/2023,West,Apparel,Small Business,7,257.58,0.0,-170.45
+ORD-20240619,2023-05-06,West,Furniture,Corporate,12,548.25,0.0,1227.28
+ORD-20240620,2023-12-22,East,Apparel,Corporate,11,$921.93,0.15,66.22
+ORD-20240621,2024-03-21,North,Furniture,Small Business,25,€368.02,0.1,-199.91
+ORD-20240622,01/12/2024,Central,Electronics,Small Business,15,343.87,0.25,408.17
+ORD-20240623,2024-03-15,South,Apparel,Small Business,23,607.89,0.25,4328.04
+ORD-20240624,02/26/2023,,Electronics,Small Business,18,$430.24,0.25,1937.18
+ORD-20240625,2024-04-08,West,Office Supplies,Corporate,14,617.94,0.15,-1069.47
+ORD-20240626,2024-05-09,West,Electronics,Corporate,2,N/A,0.1,101.07
+ORD-20240627,2023-06-11,South,Apparel,Small Business,13,764.25,0.25,800.74
+ORD-20240628,2024-12-06,West,Furniture,Small Business,19,803.23,0.1,4840.33
+ORD-20240629,2023-02-03,Central,Hardware,Consumer,19,709.09,0.05,5632.21
+ORD-20240630,03/08/2023,South,Apparel,Small Business,2,889.20,0.0,414.42
+ORD-20240631,08/20/2023,South,Apparel,Consumer,13,$758.74,0.15,-887.49
+ORD-20240632,2024-11-14,West,Furniture,Consumer,22,582.22,0.0,-1020.55
+ORD-20240633,10/20/2023,North,Electronics,Small Business,17,217.25,0.1,-269.66
+ORD-20240634,04/03/2023,North,Hardware,Corporate,24,422.72,0.15,3478.79
+ORD-20240635,12/09/2024,Central,Furniture,Corporate,14,411.19,0.1,1759.13
+ORD-20240636,2024-07-07,North,Electronics,Corporate,19,579.63,0.25,506.75
+ORD-20240637,2023-06-14,East,Office Supplies,Corporate,23,N/A,0.15,1200.93
+ORD-20240638,2024-02-13,North,Hardware,Small Business,3,619.26,0.15,64.22
+ORD-20240639,2023-08-16,North,Hardware,Corporate,8,281.51,0.25,747.87
+ORD-20240640,2023-07-02,,Apparel,Corporate,11,389.32,0.25,1011.00
+ORD-20240641,2024-02-31,West,Electronics,Small Business,4,,0.0,-15.95
+ORD-20240642,12/14/2023,East,Hardware,Small Business,2,748.92,0.0,-181.54
+ORD-20240643,12/20/2024,South,Electronics,Consumer,25,809.89,0.15,3995.20
+ORD-20240644,2024-04-19,East,Apparel,Corporate,25,92.41,0.25,608.74
+ORD-20240645,04/23/2023,South,Furniture,Corporate,7,333.32,0.25,537.16
+ORD-20240646,2024-05-23,North,Furniture,Corporate,15,495.09,0.15,-235.00
+ORD-20240647,05/28/2023,North,Apparel,Consumer,16,438.22,0.1,-498.55
+ORD-20240648,2024-04-05,North,Office Supplies,Small Business,13,410.12,0.1,-174.33
+ORD-20240649,10/16/2024,South,Furniture,Consumer,19,76.57,0.0,22.22
+ORD-20240650,07/13/2024,East,Furniture,Corporate,21,572.55,0.0,-1123.65
+ORD-20240651,2024-08-24,South,Electronics,Corporate,15,$26.91,0.15,36.63
+ORD-20240652,2023-02-06,Central,,Corporate,4,$31.26,0.1,39.52
+ORD-20240653,03/25/2023,East,Office Supplies,Corporate,22,355.61,0.0,2711.99
+ORD-20240654,09/25/2024,North,Apparel,Small Business,5,43.90,0.25,48.50
+ORD-20240655,2023-12-03,North,Hardware,Corporate,17,€866.16,0.1,5072.92
+ORD-20240656,05/10/2023,East,Electronics,Corporate,19,755.84,0.1,unknown
+ORD-20240657,2023-03-15,Central,Office Supplies,Consumer,10,N/A,0.1,165.60
+ORD-20240658,2024-01-14,,Office Supplies,Small Business,22,539.30,0.0,3297.39
+ORD-20240659,07/19/2023,East,Apparel,Consumer,9,573.23,0.05,923.10
+ORD-20240660,10/05/2023,South,Electronics,Small Business,15,366.53,0.15,-431.69
+ORD-20240661,2024-09-22,West,Apparel,Small Business,1,408.56,0.05,85.05
+ORD-20240662,2023-09-12,East,Apparel,Small Business,1,728.40,0.25,68.91
+ORD-20240663,2024-11-04,Central,Office Supplies,Consumer,24,492.62,0.0,3203.33
+ORD-20240664,2023-08-05,South,Office Supplies,Consumer,16,202.65,0.0,-486.29
+ORD-20240665,02/08/2023,Central,Electronics,Corporate,13,187.08,0.05,820.28
+ORD-20240666,2023-11-15,South,Furniture,Small Business,23,460.21,0.1,225.48
+ORD-20240667,2024-06-22,North,Apparel,Corporate,15,$379.12,0.25,135.02
+ORD-20240668,2023-10-15,South,Apparel,Consumer,12,820.06,0.05,554.38
+ORD-20240669,2023-02-06,East,Furniture,Small Business,10,78.78,0.15,50.83
+ORD-20240670,10/23/2024,Central,Hardware,Consumer,2,,0.05,-122.50
+ORD-20240671,2023-08-11,South,Furniture,Corporate,25,877.42,0.0,4763.12
+ORD-20240672,2024-02-15,South,Apparel,Small Business,19,198.00,0.15,359.77
+ORD-20240673,03/14/2023,North,Furniture,Corporate,25,526.05,0.0,715.78
+ORD-20240674,12/21/2024,West,Office Supplies,Small Business,5,425.35,0.15,676.79
+ORD-20240675,09/10/2023,Central,Electronics,Corporate,9,349.64,0.05,1288.05
+ORD-20240676,2024-09-20,North,Office Supplies,Consumer,11,202.48,0.0,-147.95
+ORD-20240677,2023-11-02,Central,Electronics,Consumer,14,587.62,0.0,3146.80
+ORD-20240678,12/02/2023,East,Office Supplies,Consumer,1,39.64,0.05,6.42
+ORD-20240679,12/01/2024,South,Apparel,Consumer,15,$590.64,0.1,486.98
+ORD-20240680,2023-04-08,Central,Electronics,Consumer,2,$133.48,0.05,4.96
+ORD-20240681,2023-04-10,North,Electronics,Small Business,7,702.43,0.1,1719.60
+ORD-20240682,2024-05-12,East,Hardware,Consumer,12,674.64,0.25,860.52
+ORD-20240683,2024-09-08,East,Furniture,Consumer,23,729.52,0.0,-2302.51
+ORD-20240684,2024-10-13,East,Apparel,Corporate,13,224.86,0.15,-97.76
+ORD-20240685,2024-05-02,East,Office Supplies,Small Business,7,333.78,0.25,193.54
+ORD-20240686,2023-12-25,East,Hardware,Small Business,24,500.18,0.05,4860.24
+ORD-20240687,04/05/2023,East,Furniture,Corporate,11,51.10,0.1,33.90
+ORD-20240688,2023-10-01,East,Apparel,Corporate,1,918.10,0.15,181.55
+ORD-20240689,2024-10-03,North,Office Supplies,Corporate,9,133.95,0.05,-70.85
+ORD-20240690,2024-02-31,North,Hardware,Small Business,11,$685.73,0.0,3175.78
+ORD-20240691,2024-01-22,South,Electronics,Consumer,17,$205.78,0.25,191.05
+ORD-20240692,11/14/2024,East,Apparel,Corporate,16,289.95,0.0,-249.65
+ORD-20240693,2023-10-01,Central,Hardware,Small Business,12,369.22,0.25,-433.45
+ORD-20240694,2023-11-03,Central,Hardware,Small Business,14,128.36,0.25,443.32
+ORD-20240695,09/15/2024,East,Office Supplies,Corporate,8,714.56,0.0,1519.69
+ORD-20240696,2023-07-12,East,Hardware,Corporate,8,788.04,0.05,2428.16
+ORD-20240697,2023-11-19,East,Electronics,Small Business,5,606.51,0.05,1123.34
+ORD-20240698,,East,Apparel,Consumer,2,37.38,0.05,31.53
+ORD-20240699,07/14/2024,South,Electronics,Corporate,19,115.77,0.0,-232.61
+ORD-20240700,2024-07-21,West,Furniture,Small Business,17,$852.39,0.25,2236.94
+ORD-20240701,2023-06-15,North,Apparel,Small Business,17,557.14,0.15,170.31
+ORD-20240702,2023-03-02,Central,Office Supplies,Consumer,10,425.39,0.05,93.30
+ORD-20240703,02/08/2024,Central,Electronics,Consumer,18,197.45,0.15,1055.84
+ORD-20240704,2024-10-14,East,Electronics,Corporate,16,823.31,0.1,3426.05
+ORD-20240705,2023-02-24,Central,Apparel,Small Business,22,675.87,0.1,5157.02
+ORD-20240706,12/26/2024,North,Electronics,Small Business,13,220.90,0.05,25.02
+ORD-20240707,12/16/2024,North,Furniture,Consumer,3,586.49,0.05,-211.80
+ORD-20240708,2023-11-19,South,Furniture,Small Business,16,604.08,0.25,465.94
+ORD-20240709,2024-02-25,South,Electronics,Corporate,22,$666.67,0.05,4378.00
+ORD-20240710,2024-08-20,East,Apparel,Corporate,9,399.50,0.15,321.26
+ORD-20240711,2023-08-24,East,Furniture,Consumer,18,599.64,0.25,1752.20
+ORD-20240712,12/01/2024,East,Hardware,Consumer,17,515.67,0.05,2938.89
+ORD-20240713,2023-05-26,South,Furniture,Consumer,1,507.33,0.25,33.77
+ORD-20240714,2023-05-01,North,Electronics,Corporate,21,780.11,0.1,5413.88
+ORD-20240715,12/25/2024,Central,Furniture,Small Business,13,€581.32,0.1,2182.33,EXTRA_UNEXPECTED_COLUMN
+ORD-20240716,05/09/2024,Central,Office Supplies,Consumer,14,466.93,0.25,754.81
+ORD-20240717,2024-12-13,West,Electronics,Consumer,15,541.55,0.1,361.61
+ORD-20240718,02/18/2023,Central,Furniture,Corporate,17,544.81,0.05,-1008.68
+ORD-20240719,12/11/2023,Central,Electronics,Consumer,25,471.96,0.15,379.20
+ORD-20240720,2023-12-16,North,Electronics,Small Business,4,€424.16,0.0,-214.73
+ORD-20240721,2023-09-16,West,,Corporate,24,647.70,0.25,506.35
+ORD-20240722,2024-03-05,Central,Office Supplies,Corporate,16,890.35,0.05,-696.39
+ORD-20240723,06/14/2023,North,Furniture,Consumer,18,103.56,0.25,183.45
+ORD-20240724,2024-09-08,East,Apparel,Corporate,12,392.06,0.1,790.40
+ORD-20240725,2023-10-05,East,Furniture,Small Business,21,323.70,0.25,1085.24
+ORD-20240726,10/22/2024,,Furniture,Small Business,5,$459.56,0.0,101.11
+ORD-20240727,2024-09-26,East,Electronics,Corporate,13,675.34,0.1,292.81
+ORD-20240728,2023-10-27,East,Apparel,Corporate,23,655.82,0.25,4410.41
+ORD-20240729,2024-06-28,West,Hardware,Consumer,13,887.53,0.0,-374.96
+ORD-20240730,10/10/2024,East,Electronics,Consumer,21,462.62,0.0,4346.91
+ORD-20240731,2023-01-19,Central,Apparel,Small Business,21,769.95,0.0,1159.64
+ORD-20240732,2023-12-24,West,Electronics,Small Business,23,$106.14,0.25,30.19
+ORD-20240733,2024-12-01,East,Furniture,Small Business,24,497.78,0.15,1013.72
+ORD-20240734,2023-04-27,West,Hardware,Small Business,14,€713.28,0.0,366.47
+ORD-20240735,2023-08-19,North,Furniture,Consumer,11,917.99,0.05,3100.86
+ORD-20240736,2023-02-24,South,Furniture,Corporate,23,275.83,0.25,187.11
+ORD-20240737,04/06/2024,North,Hardware,Small Business,17,605.01,0.05,-1250.30
+ORD-20240738,2023-09-19,East,Hardware,Small Business,9,$738.14,0.1,-113.88
+ORD-20240739,2023-09-22,East,Apparel,Consumer,11,603.56,0.0,-363.49
+ORD-20240740,2024-02-06,South,Apparel,Corporate,19,421.70,0.15,913.58
+ORD-20240741,2024-10-11,South,Hardware,Corporate,25,554.95,0.25,-1382.52
+ORD-20240742,2023-10-23,South,Office Supplies,Consumer,3,731.04,0.1,247.18
+ORD-20240743,,South,Electronics,Consumer,14,$243.82,0.25,914.99
+ORD-20240744,2024-06-04,South,Apparel,Small Business,8,104.60,0.05,32.60
+ORD-20240745,2024-06-10,East,Hardware,Small Business,6,360.14,0.1,unknown
+ORD-20240746,07/03/2023,South,Electronics,Small Business,6,281.44,0.15,366.25
+ORD-20240747,2023-07-06,North,Electronics,Small Business,4,393.18,0.0,-84.09
+ORD-20240748,2023-11-15,West,Electronics,Corporate,24,579.40,0.15,1787.58
+ORD-20240749,2023-09-12,Central,Electronics,Corporate,23,199.77,0.25,987.55
+ORD-20240750,2024-02-31,North,Apparel,Small Business,22,413.03,0.1,2536.00
+ORD-20240751,05/12/2024,North,Office Supplies,Small Business,24,178.84,0.25,-300.20
+ORD-20240752,2024-07-09,South,Hardware,Consumer,3,50.80,0.25,49.85
+ORD-20240753,2023-07-17,East,Electronics,Small Business,9,709.41,0.0,2248.13
+ORD-20240754,2024-04-19,Central,Furniture,Consumer,12,216.22,0.15,32.80
+ORD-20240755,2023-09-22,East,Apparel,Corporate,22,$264.69,0.25,1415.71
+ORD-20240756,04/01/2024,Central,Hardware,Small Business,11,459.69,0.25,-540.27
+ORD-20240757,2024-08-05,Central,Apparel,Consumer,22,919.82,0.15,3213.00
+ORD-20240758,09/12/2024,West,Hardware,Small Business,12,403.39,0.0,1456.24
+ORD-20240759,2023-04-13,North,Furniture,Consumer,19,823.68,0.15,2395.00
+ORD-20240760,2024-10-09,East,Hardware,Corporate,16,282.68,0.15,-214.59
+ORD-20240761,2024-01-18,North,Apparel,Corporate,7,593.65,0.05,852.02
+ORD-20240762,2024-10-24,South,Apparel,Corporate,1,841.08,0.15,129.57
+ORD-20240763,2024-03-15,West,Furniture,Corporate,3,208.55,0.15,66.75
+ORD-20240764,2023-04-26,North,Office Supplies,Consumer,8,914.91,0.0,2189.67
+ORD-20240765,09/16/2024,East,Hardware,Small Business,21,683.30,0.15,1689.08
+ORD-20240766,2023-07-27,Central,Apparel,Consumer,4,$260.44,0.25,236.07
+ORD-20240767,07/22/2024,West,Electronics,Small Business,3,677.99,0.05,587.77
+ORD-20240768,2024-06-26,Central,Furniture,Corporate,1,361.75,0.1,90.60
+ORD-20240769,2024-10-21,East,Furniture,Corporate,13,228.10,0.05,563.23
+ORD-20240770,,Central,Hardware,Small Business,6,617.00,0.25,1003.89
+ORD-20240771,2023-08-21,West,Electronics,Consumer,11,208.01,0.05,36.93
+ORD-20240772,2024-11-07,North,Hardware,Small Business,7,45.71,0.0,134.78
+ORD-20240773,2023-09-28,Central,Furniture,Small Business,6,623.50,0.05,-46.19
+ORD-20240774,10/09/2024,North,Furniture,Consumer,7,562.61,0.25,402.79
+ORD-20240775,01/11/2023,North,Electronics,Consumer,20,547.32,0.25,885.45
+ORD-20240776,2023-08-25,West,Office Supplies,Small Business,9,180.06,0.25,170.12
+ORD-20240777,2023-05-28,Central,Apparel,Consumer,16,N/A,0.25,1349.98
+ORD-20240778,07/22/2024,East,Hardware,Consumer,25,$231.74,0.1,787.69
+ORD-20240779,2024-02-22,South,Furniture,Consumer,6,161.92,0.25,319.65
+ORD-20240780,2023-12-09,East,Office Supplies,Corporate,24,303.00,0.25,469.73
+ORD-20240781,2024-07-02,West,Electronics,Consumer,7,254.29,0.1,-217.54
+ORD-20240782,2023-09-18,West,Electronics,Consumer,11,895.30,0.25,974.41
+ORD-20240783,2024-02-31,West,Hardware,Consumer,4,$335.42,0.25,72.12
+ORD-20240784,2023-03-24,West,Furniture,Small Business,7,424.77,0.1,518.19
+ORD-20240785,2024-09-27,North,Office Supplies,Corporate,25,842.09,0.05,855.19
+ORD-20240786,04/22/2024,North,Apparel,Corporate,2,71.37,0.25,7.93
+ORD-20240787,2024-09-28,Central,Electronics,Small Business,3,744.85,0.25,-92.29
+ORD-20240788,2023-10-15,West,Apparel,Small Business,5,83.28,0.25,16.83
+ORD-20240789,2024-07-01,,Electronics,Consumer,11,257.03,0.05,538.87
+ORD-20240790,2023-11-22,East,Hardware,Consumer,7,109.34,0.25,121.21
+ORD-20240791,2023-09-12,South,Furniture,Corporate,9,875.09,0.1,-947.14
+ORD-20240792,02/27/2024,South,Apparel,Consumer,7,566.85,0.0,-374.13
+ORD-20240793,12/17/2023,West,Office Supplies,Corporate,14,€936.12,0.25,647.90
+ORD-20240794,2023-08-01,North,Office Supplies,Corporate,21,949.73,0.0,4791.82
+ORD-20240795,01/09/2024,South,Furniture,Consumer,23,51.46,0.25,294.20
+ORD-20240796,2024-06-20,South,Furniture,Small Business,6,879.83,0.05,-662.04
+ORD-20240797,2024-06-27,North,Apparel,Consumer,14,$367.53,0.25,1094.10
+ORD-20240798,2023-06-08,West,Apparel,Small Business,15,$579.06,0.0,320.15
+ORD-20240799,2024-03-11,North,Hardware,Consumer,17,$896.04,0.05,3553.02
+ORD-20240800,05/20/2023,East,Apparel,Small Business,17,841.15,0.05,635.30
+ORD-20240801,2023-12-28,North,Furniture,Small Business,2,237.37,0.15,17.56
+ORD-20240802,2024-06-07,Central,Apparel,Corporate,21,878.83,0.1,7441.42
+ORD-20240803,2024-08-25,East,Office Supplies,Corporate,14,917.04,0.05,-1137.33
+ORD-20240804,02/18/2024,West,Electronics,Small Business,6,895.07,0.25,-133.21
+ORD-20240805,2024-01-07,Central,Hardware,Small Business,12,663.60,0.25,-298.31
+ORD-20240806,2023-11-21,South,Hardware,Consumer,9,$921.15,0.15,196.59
+ORD-20240807,08/15/2024,North,Hardware,Consumer,24,911.92,0.0,6633.71
+ORD-20240808,2023-03-25,West,Furniture,Corporate,3,902.36,0.05,991.61
+ORD-20240809,2023-11-05,East,Electronics,Small Business,4,574.55,0.05,537.64
+ORD-20240810,12/20/2024,East,Electronics,Corporate,4,413.23,0.05,590.02
+ORD-20240811,05/08/2023,Central,Furniture,Small Business,16,915.63,0.15,-1444.60
+ORD-20240812,2024-12-24,East,Office Supplies,Consumer,1,$768.60,0.05,147.11
+ORD-20240813,2024-05-04,West,Apparel,Consumer,19,615.90,0.0,2286.30
+ORD-20240814,2024-06-19,North,Apparel,Small Business,17,,0.15,1408.93
+ORD-20240815,01/21/2024,North,Office Supplies,Small Business,12,917.83,0.1,1165.76
+ORD-20240816,11/09/2023,Central,Apparel,Consumer,16,327.07,0.25,678.77
+ORD-20240817,06/27/2024,West,Apparel,Corporate,7,676.42,0.1,222.45
+ORD-20240818,03/06/2024,East,Hardware,Small Business,18,€593.27,0.0,-329.21
+ORD-20240819,11/13/2024,East,Apparel,Small Business,10,922.65,0.1,3733.94
+ORD-20240820,2024-02-31,East,Furniture,Consumer,8,426.73,0.05,-203.59
+ORD-20240821,2024-10-16,Central,Furniture,Small Business,13,845.84,0.15,2785.97
+ORD-20240822,2024-05-14,South,Office Supplies,Small Business,5,788.66,0.05,1226.24
+ORD-20240823,2024-09-23,Central,Office Supplies,Small Business,18,224.41,0.1,707.30
+ORD-20240824,08/19/2024,North,Hardware,Corporate,16,153.27,0.1,-244.44
+ORD-20240825,2024-12-01,South,Furniture,Corporate,18,299.86,0.05,984.06
+ORD-20240826,2024-03-25,North,Office Supplies,Consumer,20,$401.82,0.05,2210.47
+ORD-20240827,03/27/2023,North,Electronics,Small Business,23,377.27,0.15,581.01
+ORD-20240828,2024-03-04,East,Furniture,Consumer,8,620.16,0.0,267.08
+ORD-20240829,2023-01-20,East,Electronics,Small Business,1,N/A,0.0,123.67
+ORD-20240830,2023-02-06,Central,Office Supplies,Small Business,5,551.68,0.15,642.01
+ORD-20240831,03/27/2024,Central,Electronics,Corporate,10,$653.63,0.25,789.72
+ORD-20240832,2024-10-05,Central,Apparel,Small Business,18,$245.22,0.05,-26.54
+ORD-20240833,07/02/2024,West,Hardware,Small Business,3,314.72,0.25,132.98
+ORD-20240834,09/21/2023,South,Apparel,Corporate,3,474.31,0.1,239.16
+ORD-20240835,2023-05-25,North,Hardware,Small Business,18,€308.27,0.0,946.50
+ORD-20240836,2023-04-12,West,Hardware,Small Business,12,56.81,0.05,-58.81
+ORD-20240837,2023-12-11,Central,Electronics,Corporate,7,123.77,0.1,-114.75
+ORD-20240838,2024-06-06,West,Furniture,Small Business,22,877.24,0.25,3996.45
+ORD-20240839,2024-11-24,,Apparel,Consumer,25,576.12,0.15,-1529.34
+ORD-20240840,2023-12-08,West,Hardware,Small Business,9,683.55,0.15,109.21
+ORD-20240841,2023-05-04,South,Hardware,Consumer,5,48.37,0.15,-17.35
+ORD-20240842,03/03/2023,West,Apparel,Consumer,22,731.95,0.05,4759.58
+ORD-20240843,2024-02-31,,Office Supplies,Corporate,15,617.27,0.15,614.04
+ORD-20240844,2023-04-06,North,Electronics,Small Business,17,165.63,0.25,904.91
+ORD-20240845,2023-07-17,East,Furniture,Small Business,8,N/A,0.0,49.25
+ORD-20240846,2023-04-25,West,Apparel,Small Business,13,714.44,0.15,1717.58
+ORD-20240847,2023-08-16,South,Furniture,Corporate,9,359.15,0.0,352.46
+ORD-20240848,2024-02-31,Central,Apparel,Small Business,12,394.42,0.15,508.31
+ORD-20240849,2024-08-12,Central,Furniture,Small Business,7,696.90,0.25,248.97
+ORD-20240850,07/12/2024,North,Apparel,Small Business,14,$218.06,0.25,879.11
+ORD-20240851,07/06/2024,Central,Office Supplies,Small Business,19,614.56,0.25,2794.65
+ORD-20240852,2023-08-08,Central,Hardware,Small Business,2,750.81,0.0,-205.90
+ORD-20240853,2023-06-28,South,Furniture,Consumer,12,309.99,0.15,427.02
+ORD-20240854,2023-02-26,West,Hardware,Small Business,18,669.37,0.1,2862.53
+ORD-20240855,11/05/2024,West,Apparel,Consumer,19,779.78,0.15,2530.46
+ORD-20240856,2024-08-22,East,Furniture,Small Business,13,118.76,0.05,626.19
+ORD-20240857,02/12/2024,West,Office Supplies,Consumer,17,501.60,0.0,1225.92
+ORD-20240858,04/23/2024,East,Apparel,Corporate,18,,0.25,-1609.66
+ORD-20240859,2024-04-16,East,Office Supplies,Small Business,14,334.89,0.1,1187.70
+ORD-20240860,2024-05-03,East,Electronics,Consumer,25,$84.58,0.1,-211.29
+ORD-20240861,02/28/2023,,Hardware,Small Business,21,921.12,0.1,5600.16
+ORD-20240862,2023-12-05,South,Electronics,Consumer,22,61.75,0.0,111.59
+ORD-20240863,2024-04-23,East,Hardware,Consumer,15,€20.90,0.05,129.41
+ORD-20240864,2023-10-07,South,Furniture,Small Business,19,400.48,0.1,-130.42
+ORD-20240865,2023-04-17,East,Furniture,Consumer,16,700.27,0.25,2549.46
+ORD-20240866,2023-12-15,East,Office Supplies,Small Business,22,547.20,0.1,1305.26
+ORD-20240867,2024-08-10,South,Furniture,Corporate,14,446.63,0.15,681.23
+ORD-20240868,2024-03-24,South,Apparel,Small Business,5,28.04,0.05,-7.91
+ORD-20240869,01/13/2024,North,Furniture,Small Business,9,469.91,0.15,394.40
+ORD-20240870,2024-11-02,East,Hardware,Consumer,17,766.39,0.15,1598.07
+ORD-20240871,2024-06-21,North,Hardware,Small Business,12,822.93,0.1,1681.51
+ORD-20240872,,South,Office Supplies,Corporate,21,924.31,0.1,3196.87
+ORD-20240873,2024-04-05,South,Hardware,Consumer,16,847.67,0.1,1911.24
+ORD-20240874,2023-10-11,East,Apparel,Corporate,23,$807.67,0.0,2493.85
+ORD-20240875,,Central,Furniture,Corporate,16,580.46,0.25,-208.72
+ORD-20240876,10/20/2023,South,Hardware,Corporate,14,812.28,0.1,67.47
+ORD-20240877,invalid-date-format,West,Apparel,Consumer,15,534.17,0.25,700.00
+ORD-20240878,2023-08-09,South,Office Supplies,Consumer,2,531.66,0.1,-62.15
+ORD-20240879,2024-01-21,East,Electronics,Corporate,19,51.82,0.25,-86.02
+ORD-20240880,02/03/2023,South,Office Supplies,Corporate,3,717.05,0.15,165.18
+ORD-20240881,2023-07-23,South,Electronics,Corporate,8,617.85,0.25,-502.18
+ORD-20240882,08/02/2023,South,Furniture,Corporate,13,641.70,0.0,1302.60
+ORD-20240883,invalid-date-format,West,Electronics,Consumer,7,474.52,0.1,810.43
+ORD-20240884,03/13/2023,,Hardware,Small Business,12,164.47,0.05,567.18
+ORD-20240885,2023-05-13,West,Hardware,Consumer,6,$377.27,0.0,669.33
+ORD-20240886,2024-10-24,Central,Office Supplies,Small Business,21,847.34,0.1,-318.96
+ORD-20240887,,East,Apparel,Corporate,13,169.52,0.15,258.70
+ORD-20240888,11/28/2023,North,Hardware,Consumer,9,298.72,0.15,656.42
+ORD-20240889,2023-06-07,East,Apparel,Corporate,25,,0.05,23.08
+ORD-20240890,2023-04-04,South,Electronics,Corporate,19,270.38,0.0,1395.92
+ORD-20240891,2023-03-07,North,Apparel,Consumer,19,628.93,0.1,2967.66
+ORD-20240892,2024-05-01,West,Electronics,Corporate,18,471.77,0.05,2253.52
+ORD-20240893,2024-02-20,South,Office Supplies,Small Business,5,612.76,0.15,-118.81
+ORD-20240894,06/25/2024,West,Apparel,Corporate,3,842.26,0.1,920.63
+ORD-20240895,2023-09-28,South,Hardware,Small Business,6,551.40,0.05,1083.74
+ORD-20240896,2023-02-17,East,Furniture,Small Business,23,472.38,0.1,2827.02
+ORD-20240897,07/17/2024,West,Electronics,Small Business,15,€663.84,0.05,2646.08
+ORD-20240898,2023-02-16,East,Apparel,Consumer,18,904.70,0.05,-2102.37
+ORD-20240899,03/27/2023,North,Office Supplies,Consumer,23,335.86,0.1,-173.33
+ORD-20240900,2023-08-21,West,Electronics,Corporate,13,734.75,0.15,2136.55
+ORD-20240901,2023-11-16,North,Hardware,Consumer,24,605.26,0.0,1783.99
+ORD-20240902,2024-08-02,West,Apparel,Small Business,5,646.35,0.0,1329.29
+ORD-20240903,2024-08-09,North,Electronics,Corporate,6,289.32,0.05,-207.97
+ORD-20240904,11/05/2023,North,Furniture,Consumer,10,€332.97,0.25,892.33
+ORD-20240905,12/04/2023,Central,Apparel,Small Business,14,,0.1,1472.24
+ORD-20240906,05/14/2024,East,Hardware,Consumer,4,,0.05,90.53
+ORD-20240907,2024-06-18,South,Electronics,Consumer,7,$139.56,0.15,-118.98
+ORD-20240908,2024-02-17,,Furniture,Consumer,16,191.40,0.15,356.53
+ORD-20240909,09/21/2023,Central,Electronics,Consumer,19,€601.19,0.15,3435.73
+ORD-20240910,2023-05-14,East,Electronics,Small Business,12,582.02,0.05,1984.97
+ORD-20240911,09/14/2023,West,Apparel,Corporate,3,673.68,0.05,602.40
+ORD-20240912,2024-05-15,East,Apparel,Corporate,25,658.70,0.25,4990.55
+ORD-20240913,2024-10-05,East,Hardware,Corporate,21,268.62,0.1,1049.20
+ORD-20240914,2023-06-08,East,Apparel,Small Business,14,191.11,0.25,771.22
+ORD-20240915,2024-05-07,South,Hardware,Consumer,24,287.52,0.05,-174.11
+ORD-20240916,2024-03-21,East,Apparel,Consumer,9,251.12,0.15,649.07
+ORD-20240917,,East,Apparel,Small Business,19,492.90,0.15,-242.68
+ORD-20240918,2023-08-20,North,Electronics,Consumer,2,274.33,0.25,70.42
+ORD-20240919,12/22/2024,Central,Electronics,Small Business,24,416.87,0.05,-168.59
+ORD-20240920,09/12/2023,East,Furniture,Corporate,7,31.31,0.05,-19.84
+ORD-20240921,05/26/2024,West,Apparel,Consumer,8,17.96,0.1,14.37
+ORD-20240922,08/07/2023,West,Apparel,Corporate,1,269.06,0.15,25.61
+ORD-20240923,2024-01-16,East,Electronics,Small Business,22,751.85,0.05,-302.38
+ORD-20240924,2023-12-10,North,Hardware,Small Business,3,763.09,0.15,375.54
+ORD-20240925,invalid-date-format,West,Electronics,Corporate,8,867.34,0.1,856.28
+ORD-20240926,2023-11-17,East,Furniture,Consumer,3,531.89,0.1,-147.12
+ORD-20240927,05/05/2024,South,Furniture,Consumer,3,550.39,0.05,35.99
+ORD-20240928,2023-03-08,North,Electronics,Consumer,18,$447.47,0.1,2058.18
+ORD-20240929,2023-04-26,East,Electronics,Consumer,13,$60.20,0.05,266.10
+ORD-20240930,2024-06-19,North,Furniture,Consumer,3,142.07,0.1,48.51
+ORD-20240931,2024-07-18,Central,Hardware,Small Business,13,504.44,0.15,-277.94
+ORD-20240932,2023-01-07,East,Apparel,Corporate,12,,0.0,-116.65
+ORD-20240933,2023-08-28,South,Furniture,Corporate,16,681.55,0.1,3723.85
+ORD-20240934,2023-01-08,East,Office Supplies,Corporate,21,88.05,0.1,104.62
+ORD-20240935,2024-08-03,Central,Electronics,Small Business,18,38.08,0.05,148.73
+ORD-20240936,2024-06-26,East,Hardware,Corporate,25,729.00,0.0,4552.46
+ORD-20240937,2023-09-03,West,Office Supplies,Consumer,3,272.84,0.05,-97.09
+ORD-20240938,2023-04-14,South,Hardware,Consumer,1,167.77,0.0,1.56
+ORD-20240939,08/06/2024,East,Office Supplies,Corporate,19,846.37,0.1,3313.07
+ORD-20240940,2024-11-27,South,Electronics,Corporate,11,296.03,0.15,-330.01
+ORD-20240941,2023-05-04,South,Furniture,Consumer,4,487.96,0.15,490.28
+ORD-20240942,2023-02-08,North,Electronics,Corporate,5,929.77,0.1,1726.12
+ORD-20240943,2023-08-13,East,Furniture,Small Business,11,812.74,0.0,-900.66
+ORD-20240944,,West,Furniture,Consumer,16,€139.81,0.1,517.90
+ORD-20240945,11/19/2023,East,Hardware,Consumer,20,N/A,0.05,6473.49
+ORD-20240946,2024-05-19,Central,Electronics,Corporate,6,669.45,0.0,593.87
+ORD-20240947,2024-07-28,West,Hardware,Small Business,23,405.80,0.05,2895.47
+ORD-20240948,04/08/2024,North,Electronics,Corporate,5,$83.67,0.1,98.89
+ORD-20240949,2023-07-14,Central,Office Supplies,Consumer,16,355.54,0.15,-169.75
+ORD-20240950,invalid-date-format,East,Apparel,Corporate,23,435.39,0.1,2678.26
+ORD-20240951,10/28/2023,East,Apparel,Corporate,5,$146.22,0.25,116.44
+ORD-20240952,12/06/2024,,Office Supplies,Corporate,11,N/A,0.25,-111.48
+ORD-20240953,2024-12-24,Central,Hardware,Small Business,2,687.37,0.25,24.86
+ORD-20240954,2023-05-11,North,Apparel,Small Business,19,309.69,0.25,-71.76
+ORD-20240955,2023-01-27,West,Hardware,Consumer,15,17.10,0.0,109.06
+ORD-20240956,2023-09-14,East,Electronics,Small Business,7,531.46,0.0,1350.96
+ORD-20240957,2023-12-11,West,Furniture,Consumer,4,$715.70,0.1,-125.18
+ORD-20240958,2023-03-14,East,Hardware,Small Business,3,$160.46,0.0,unknown
+ORD-20240959,2023-05-06,Central,Hardware,Consumer,16,275.21,0.0,280.74
+ORD-20240960,2024-04-18,Central,Electronics,Consumer,5,503.15,0.25,-63.20
+ORD-20240961,2024-06-01,West,Hardware,Corporate,7,€595.71,0.15,1113.24
+ORD-20240962,2024-12-08,East,Furniture,Consumer,15,€548.83,0.0,3643.66
+ORD-20240963,2023-07-24,North,Electronics,Small Business,25,$141.95,0.15,549.45
+ORD-20240964,2023-02-20,South,Apparel,Consumer,2,636.61,0.05,323.61
+ORD-20240965,2024-05-11,East,Office Supplies,Corporate,1,,0.05,74.13
+ORD-20240966,2023-10-20,East,Office Supplies,Consumer,19,763.35,0.05,-1661.03
+ORD-20240967,2023-09-28,Central,Hardware,Small Business,22,852.13,0.0,696.17
+ORD-20240968,06/09/2023,Central,,Consumer,16,394.60,0.0,54.10
+ORD-20240969,04/03/2024,Central,Electronics,Consumer,16,677.13,0.05,3012.75
+ORD-20240970,2023-04-14,Central,Furniture,Consumer,2,588.40,0.15,-34.53
+ORD-20240971,2024-07-19,South,Electronics,Corporate,21,16.36,0.0,32.06
+ORD-20240972,2023-03-19,South,Electronics,Consumer,24,$82.51,0.15,-118.20
+ORD-20240973,2023-10-01,North,Office Supplies,Consumer,5,749.53,0.1,152.01
+ORD-20240974,2024-11-09,South,Office Supplies,Small Business,22,472.13,0.1,1051.39
+ORD-20240975,2023-03-02,South,Office Supplies,Corporate,6,27.87,0.25,-13.90
+ORD-20240976,2023-04-15,West,Office Supplies,Consumer,15,31.03,0.05,104.85
+ORD-20240977,09/17/2023,Central,Electronics,Small Business,17,712.89,0.0,-1360.00
+ORD-20240978,2023-05-09,Central,Hardware,Small Business,6,928.92,0.0,unknown
+ORD-20240979,09/14/2024,North,Apparel,Corporate,19,€390.83,0.25,1053.32
+ORD-20240980,2023-10-07,East,Furniture,Corporate,8,540.88,0.0,-381.15
+ORD-20240981,2024-01-07,North,Hardware,Consumer,8,219.27,0.0,unknown
+ORD-20240982,2024-02-09,South,Electronics,Small Business,18,892.28,0.05,-1884.33
+ORD-20240983,2023-11-25,South,Office Supplies,Small Business,19,553.26,0.0,1117.03
+ORD-20240984,08/18/2023,Central,Office Supplies,Consumer,8,699.83,0.05,1842.22
+ORD-20240985,01/22/2024,North,Furniture,Corporate,22,658.20,0.05,unknown
+ORD-20240986,09/06/2024,South,Apparel,Consumer,23,263.84,0.25,1266.31
+ORD-20240987,2024-10-19,Central,Hardware,Corporate,14,€797.31,0.15,166.09
+ORD-20240988,12/26/2023,Central,Electronics,Consumer,23,$65.30,0.25,472.80
+ORD-20240989,11/19/2023,South,Furniture,Small Business,20,84.35,0.25,229.47
+ORD-20240990,2024-05-09,North,Furniture,Consumer,23,499.29,0.25,993.99
+ORD-20240991,2024-02-24,East,Electronics,Small Business,23,,0.0,-1772.33
+ORD-20240992,11/19/2023,North,Hardware,Consumer,21,580.55,0.05,5131.30
+ORD-20240993,2024-09-21,North,Furniture,Small Business,18,474.22,0.0,-509.20
+ORD-20240994,2023-10-26,Central,Electronics,Consumer,1,843.22,0.15,41.01
+ORD-20240995,2023-09-09,South,Office Supplies,Corporate,12,357.41,0.05,1308.25
+ORD-20240996,2024-02-31,West,Furniture,Small Business,20,592.92,0.0,3716.66
+ORD-20240997,09/06/2023,North,Apparel,Small Business,4,870.74,0.0,24.26
+ORD-20240998,2024-11-06,Central,Furniture,Consumer,13,159.79,0.0,-135.23
+ORD-20240999,2024-12-06,South,Furniture,Small Business,17,112.33,0.1,-173.07
+ORD-20241000,05/21/2024,East,Electronics,Consumer,24,332.84,0.05,199.58
