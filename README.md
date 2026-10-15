@@ -6,6 +6,13 @@
 
 ---
 
+## 🌐 Live Production Deployment
+- **Live Demo Application:** [https://bytefox.onrender.com](https://bytefox.onrender.com)
+- **One-Click Evaluator Sign-In:** Click the golden **"One-Click Demo Evaluator Sign In"** button on the login screen to test immediately with zero setup.
+- **Pre-loaded Messy Dataset:** Available inside the app via **"Load Messy Sample CSV"** on the upload page or downloadable at [/samples/messy_sales_data.csv](https://bytefox.onrender.com/samples/messy_sales_data.csv).
+
+---
+
 ## Quickstart (Run locally in 2 minutes)
 
 ### Prerequisites
